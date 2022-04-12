@@ -1,0 +1,980 @@
+disease prediction by machine learning over big data from healthcare communities
+effective heart disease prediction using hybrid machine learning techniques
+[html][html] comparing different supervised machine learning algorithms for disease prediction
+application of machine learning in disease prediction
+designing disease prediction model using machine learning approach
+[pdf][pdf] a survey of machine learning based approaches for parkinson disease prediction
+study of machine learning algorithms for special disease prediction using principal of component analysis
+[pdf][pdf] heart disease prediction using machine learning techniques: a survey
+[pdf][pdf] heart disease prediction using machine learning and data mining technique
+[pdf][pdf] intelligent parkinson disease prediction using machine learning algorithms
+[pdf][pdf] comparative study of chronic kidney disease prediction using knn and svm
+hdps: heart disease prediction system
+metapheno: a critical evaluation of deep learning and machine learning in metagenome-based disease prediction
+[pdf][pdf] intelligent heart disease prediction system using canfis and genetic algorithm
+development of big data predictive analytics model for disease prediction using machine learning technique
+intelligent heart disease prediction system using data mining techniques
+[pdf][pdf] intelligent and effective heart disease prediction system using weighted associative classifiers
+[pdf][pdf] an analysis of heart disease prediction using different data mining techniques
+diabetes disease prediction using machine learning on big data of healthcare
+[pdf][pdf] heart disease prediction and classification using machine learning algorithms optimized by particle swarm optimization and ant colony optimization
+disease prediction using machine learning over big data
+interactive thyroid disease prediction system using machine learning technique
+[pdf][pdf] a comparative study on liver disease prediction using supervised machine learning algorithms
+[pdf][pdf] an analysis on breast disease prediction using machine learning approaches
+[pdf][pdf] applications of machine learning in fatty live disease prediction.
+[pdf][pdf] performance analysis of liver disease prediction using machine learning algorithms
+[pdf][pdf] a comparative analysis of parkinson disease prediction using machine learning approaches
+[pdf][pdf] heart disease prediction system using naive bayes
+heart disease prediction using data mining techniques
+framework for infectious disease analysis: a comprehensive and integrative multi-modeling approach to disease prediction and management
+intelligent heart disease prediction in cloud environment through ensembling
+[pdf][pdf] disease prediction in data mining technique–a survey
+applying machine learning algorithms to develop a universal cardiovascular disease prediction system
+an analytical method for diseases prediction using machine learning techniques
+deep ehr: chronic disease prediction using medical notes
+[html][html] deepmicro: deep representation learning for disease prediction based on microbiome data
+hdpm: an effective heart disease prediction model for a clinical decision support system
+[pdf][pdf] machine learning classification techniques for heart disease prediction: a review
+[pdf][pdf] improving disease prediction by machine learning
+[pdf][pdf] anfis based classification model for heart disease prediction
+atherosclerosis disease prediction using supervised machine learning techniques
+machine learning techniques for heart disease prediction: a comparative study and analysis
+machine learning for disease prediction
+machine learning methods for disease prediction with claims data
+[pdf][pdf] machine learning algorithms for disease prediction using iot environment
+analysis of neural networks based heart disease prediction system
+[pdf][pdf] heart disease prediction using machine learning
+[html][html] feature selection and classification systems for chronic disease prediction: a review
+[pdf][pdf] data mining classification algorithms for kidney disease prediction
+[pdf][pdf] predictive data mining for medical diagnosis: an overview of heart disease prediction
+[pdf][pdf] a review on heart disease prediction using machine learning and data analytics approach
+multi-disease prediction model using improved svm-radial bias technique in healthcare monitoring system
+disease prediction with different types of neural network classifiers
+analysis of data mining techniques for heart disease prediction
+diabetes disease prediction using data mining
+comparing association rules and decision trees for disease prediction
+parkinson disease prediction using machine learning algorithm
+classification and feature selection approaches by machine learning techniques: heart disease prediction
+[pdf][pdf] liver disease prediction by using different decision tree techniques
+machine learning in coronary heart disease prediction: structural equation modelling approach
+[pdf][pdf] early heart disease prediction using data mining techniques
+[pdf][pdf] heart disease prediction system using data mining techniques
+[pdf][pdf] machine learning approaches for disease prediction from radiology and pathology reports
+[html][html] machine learning snp based prediction for precision medicine
+[pdf][pdf] review on heart disease prediction system using data mining techniques
+liver disease prediction using bayesian classification
+chatbot for disease prediction and treatment recommendation using machine learning
+[html][html] machine learning techniques in disease forecasting: a case study on rice blast prediction
+a smart healthcare monitoring system for heart disease prediction based on ensemble deep learning and feature fusion
+[html][html] a machine learning method for identifying critical interactions between gene pairs in alzheimer's disease prediction
+cardiovascular disease prediction system using genetic algorithm and neural network
+improving heart disease prediction using feature selection approaches
+efficient heart disease prediction system
+[html][html] survey of machine learning algorithms for disease diagnostic
+various preprocessing methods for neural network based heart disease prediction
+[html][html] comparison of skin disease prediction by feature selection using ensemble data mining techniques
+parkinson's disease prediction using artificial neural network
+[pdf][pdf] decision support in heart disease prediction system using naive bayes
+a highly accurate firefly based algorithm for heart disease prediction
+heart disease prediction using data mining techniques
+[pdf][pdf] liver disease prediction using svm and naïve bayes algorithms
+[pdf][pdf] comparative analysis of classification function techniques for heart disease prediction
+[html][html] applying naive bayesian networks to disease prediction: a systematic review
+coronary artery heart disease prediction: a comparative study of computational intelligence techniques
+[pdf][pdf] kidney disease prediction using svm and ann algorithms
+classification and prediction of atherosclerosis diseases using machine learning algorithms
+[pdf][pdf] a heart disease prediction model using decision tree
+machine learning algorithms for anemia disease prediction
+iot based heart disease prediction and diagnosis model for healthcare using machine learning models
+design and implementing heart disease prediction using naives bayesian
+[html][html] can machine-learning improve cardiovascular risk prediction using routine clinical data?
+development of disease prediction model based on ensemble learning approach for diabetes and hypertension
+[pdf][pdf] review of heart disease prediction system using data mining and hybrid intelligent techniques
+[pdf][pdf] disease prediction using machine learning
+points of significance: statistics versus machine learning
+[pdf][pdf] hepatitis-infectious disease prediction using classification algorithms
+[html][html] multistage classifier-based approach for alzheimer's disease prediction and retrieval
+parkinson's disease prediction using machine learning approaches
+an improved method for disease prediction using fuzzy approach
+[pdf][pdf] prediction of heart disease using machine learning algorithms
+[pdf][pdf] systematic comparisons for composition profiles, taxonomic levels, and machine learning methods for microbiome-based disease prediction
+[pdf][pdf] a comprehensive review on heart disease prediction using data mining and machine learning techniques
+alzheimer disease prediction using machine learning algorithms
+human heart disease prediction system using data mining techniques
+hybrid reasoning-based privacy-aware disease prediction support system
+heart disease prediction system using model of machine learning and sequential backward selection algorithm for features selection
+[html][html] alcoholic liver disease: a registry view on comorbidities and disease prediction
+[html][html] development of a depression in parkinson's disease prediction model using machine learning
+disease prediction based on micro array classification using deep learning techniques
+deep and joint learning of longitudinal data for alzheimer's disease prediction
+an iot framework for heart disease prediction based on mdcnn classifier
+[pdf][pdf] analysis of supervised machine learning algorithms for heart disease prediction with reduced number of attributes using principal component analysis
+heart disease prediction using data mining techniques
+an automated diagnostic system for heart disease prediction based on   statistical model and optimally configured deep neural network
+chronic kidney disease prediction on imbalanced data by multilayer perceptron: chronic kidney disease prediction
+[pdf][pdf] liver disease prediction using machine learning
+[html][html] classification models for heart disease prediction using feature selection and pca
+[pdf][pdf] improved study of heart disease prediction system using data mining classification techniques
+cloud and iot based disease prediction and diagnosis system for healthcare using fuzzy neural classifier
+[pdf][pdf] intelligent heart disease prediction system using data mining techniques
+[pdf][pdf] intelligent heart disease prediction system using probabilistic neural network
+[pdf][pdf] heart disease prediction using hybrid genetic fuzzy model
+heart disease prediction system using supervised learning classifier
+a comparative analysis of unsupervised machine techniques for liver disease prediction
+[pdf][pdf] survey on data mining techniques for disease prediction
+optimal feature selection through a cluster-based dt learning (cdtl) in heart disease prediction
+prediction of heart disease using neural network
+heart disease prediction system using random forest
+application of extreme learning machine in plant disease prediction for highly imbalanced dataset
+[pdf][pdf] machine learning techniques for heart disease prediction
+disease prediction in the at-risk mental state for psychosis using neuroanatomical biomarkers: results from the fepsy study
+[html][html] machine learning meta-analysis of large metagenomic datasets: tools and biological insights
+an effective disease prediction system using incremental feature selection and temporal convolutional neural network
+disease prediction using machine learning
+[html][html] machine learning approach for intraocular disease prediction based on aqueous humor immune mediator profiles
+machine learning applied to kidney disease prediction: comparison study
+ppdp: an efficient and privacy-preserving disease prediction scheme in cloud-based e-healthcare system
+taxonn: ensemble of neural networks on stratified microbiome data for disease prediction
+an efficient system for heart disease prediction using hybrid ofbat with rule-based fuzzy logic model
+comparing deep neural network and other machine learning algorithms for stroke prediction in a large-scale population-based electronic medical claims database
+an efficient convolutional neural network for coronary heart disease prediction
+[html][html] machine learning techniques for soybean charcoal rot disease prediction
+prediction of heart disease using machine learning algorithms.
+[pdf][pdf] heart disease prediction system using data mining techniques and intelligent fuzzy approach: a review
+heart disease prediction using machine learning algorithms
+multi-source learning with block-wise missing data for alzheimer's disease prediction
+comparative study of classifier for chronic kidney disease prediction using naive bayes, knn and random forest
+analytical study of heart disease prediction comparing with different algorithms
+use of electronic health data for disease prediction: a comprehensive literature review
+[pdf][pdf] a literature review on kidney disease prediction using data mining classification technique
+[pdf][pdf] disease prediction by machine learning from healthcare communities
+using methods from the data-mining and machine-learning literature for disease classification and prediction: a case study examining classification of heart failure …
+association rule discovery with the train and test approach for heart disease prediction
+[html][html] machine learning prediction in cardiovascular diseases: a meta-analysis
+spectral graph convolutions for population-based disease prediction
+overcoming small data limitations in heart disease prediction by using surrogate data
+decision tree algorithms for prediction of heart disease
+hybrid approach for heart disease prediction using data mining techniques
+self-attention based recurrent convolutional neural network for disease prediction using healthcare data
+big data–model integration and ai for vector‐borne disease prediction
+two-stage feature selection of voice parameters for early alzheimer's disease prediction
+[html][html] a reduced set of features for chronic kidney disease prediction
+prediction of fatty liver disease using machine learning algorithms
+validation of the framingham coronary heart disease prediction scores: results of a multiple ethnic groups investigation
+prediction of heart disease using machine learning
+heart disease prediction using data mining techniques: a survey.
+[html][html] benchmarking machine learning models for late-onset alzheimer's disease prediction from genomic data
+comparative study of machine learning algorithms for heart disease prediction
+cognitive approach for heart disease prediction using machine learning
+[pdf][pdf] generic disease prediction using symptoms with supervised machine learning
+[html][html] study of cardiovascular disease prediction model based on random forest in eastern china
+explainable prediction of chronic renal disease in the colombian population using neural networks and case-based reasoning
+hmv: a medical decision support framework using multi-layer classifiers for disease prediction
+[html][html] a hybrid intelligent system framework for the prediction of heart disease using machine learning algorithms
+dengue disease prediction using weka data mining tool
+[pdf][pdf] multi disease prediction using data mining techniques
+[pdf][pdf] cardiovascular disease prediction using data mining techniques: a review
+[pdf][pdf] xray ai: lung disease prediction using machine learning
+medical disease prediction using grey wolf optimization and auto encoder based recurrent neural network
+machine learning approaches: data integration for disease prediction and prognosis
+implementing weka for medical data classification and early disease prediction
+[html][html] convolutional neural networks-based mri image analysis for the alzheimer's disease prediction from mild cognitive impairment
+deep learning disease prediction model for use with intelligent robots
+efficient heart disease prediction system using k-nearest neighbor classification technique
+prediction of cardiovascular disease using machine learning algorithms
+machine learning based unified framework for diabetes prediction
+parkinson disease prediction using intrinsic mode function based features from speech signal
+a scalable solution for heart disease prediction using classification mining technique
+an implementation of feature ranking using machine learning techniques for diabetes disease prediction
+automatic heart disease prediction using feature selection and data mining technique
+chronic kidney disease prediction and recommendation of suitable diet plan by using machine learning
+robust heart disease prediction: a novel approach based on significant feature and ensemble learning model
+[html][html] a novel deep neural network model for multi-label chronic disease prediction
+lipid-related markers and cardiovascular disease prediction
+predictive data mining to support clinical decisions: an overview of heart disease prediction systems
+optimized anfis model using hybrid metaheuristic algorithms for parkinson's disease prediction in iot environment
+mlcdforest: multi-label classification with deep forest in disease prediction for long non-coding rnas
+prediction of skin disease using ensemble data mining techniques and feature selection method—a comparative study
+a hybrid intelligent system for the prediction of parkinson's disease progression using machine learning techniques
+comparative analysis of various techniques for heart disease prediction
+early recognition and disease prediction in the at-risk mental states for psychosis using neurocognitive pattern classification
+an investigation of heart disease prediction techniques
+particle swarm optimization based incremental classifier design for rice disease prediction
+heart disease prediction using classification (naive bayes)
+chester: a web delivered locally computed chest x-ray disease prediction system
+[html][html] genetic variants and their interactions in disease risk prediction–machine learning and network perspectives
+analysis of data mining tools for disease prediction
+[pdf][pdf] study and development of novel feature selection framework for heart disease prediction
+machine learning for integrating social determinants in cardiovascular disease prediction models: a systematic review
+disease prediction using synthetic image representations of metagenomic data and convolutional neural networks
+a decision support system for heart disease prediction based upon machine learning
+comparative analysis of classification approaches for heart disease prediction
+[html][html] a heterogeneous ensemble forecasting model for disease prediction
+ecg data analysis and heart disease prediction using machine learning algorithms
+artificial intelligent reliable doctor (airdr.): prospect of disease prediction using reliability
+ensemble approach for developing a smart heart disease prediction system using classification algorithms
+disease prediction based on functional connectomes using a scalable and spatially-informed support vector machine
+chronic kidney disease prediction by using different decision tree techniques
+bagmoov: a novel ensemble for heart disease prediction bootstrap aggregation with multi-objective optimized voting
+[pdf][pdf] building the rice blast disease prediction model based on machine learning and neural networks
+[pdf][pdf] survey on prediction and analysis the occurrence of heart disease using data mining techniques
+heart disease prediction system using data mining technique by fuzzy k-nn approach
+utilizing iot wearable medical device for heart disease prediction using higher order boltzmann model: a classification approach
+a proposed model for lifestyle disease prediction using support vector machine
+coronary artery calcium score and risk classification for coronary heart disease prediction
+[html][html] a method for hand-foot-mouth disease prediction using geodetector and lstm model in guangxi, china
+genome feature optimization and coronary artery disease prediction using cuckoo search
+a time simulated annealing-back propagation algorithm and its application in disease prediction
+enhancing metagenome-based disease prediction by unsupervised binning approaches
+[pdf][pdf] heart disease prediction using naive bayes algorithm and laplace smoothing technique
+[html][html] integrative analysis of multi-dimensional imaging genomics data for alzheimer's disease prediction
+farsight: long-term disease prediction using unstructured clinical nursing notes
+a data mining approach for coronary heart disease prediction using hrv features and carotid arterial wall thickness
+[pdf][pdf] heart disease prediction system using data mining and hybrid intelligent techniques: a review
+personalized disease prediction using a cnn-based similarity learning method
+[pdf][pdf] comparative of data mining classification algorithm (cdmca) in diabetes disease prediction
+[pdf][pdf] an intelligent heart disease prediction system using k-means clustering and naïve bayes algorithm
+osteoarthritis disease prediction based on random forest
+fast rule-based heart disease prediction using associative classification mining
+[html][html] machine learning applications in cancer prognosis and prediction
+performance evaluation of different machine learning techniques for prediction of heart disease
+[pdf][pdf] a heart disease prediction model using svm-decision trees-logistic regression (sdl)
+feature optimization by discrete weights for heart disease prediction using supervised learning
+prediction of heart disease using a hybrid technique in data mining classification
+efficient heart disease prediction system using optimization technique
+multi-task learning for fine-grained eye disease prediction
+heart disease prediction system using decision tree and naive bayes algorithm
+[pdf][pdf] prediction system for heart disease using naïve bayes
+physician-friendly machine learning: a case study with cardiovascular disease risk prediction
+applications of machine learning in cancer prediction and prognosis
+[pdf][pdf] heart disease prediction using data mining
+[pdf][pdf] cuckoo inspired algorithms for feature selection in heart disease prediction
+new machine-learning algorithms for prediction of parkinson's disease
+[pdf][pdf] a survey of data mining techniques on risk prediction: heart disease
+[html][html] predicting disease risks from highly imbalanced data using random forest
+disease prediction via graph neural networks
+neurological disease prediction using ensembled machine learning model
+telemonitoring system for infectious disease prediction in elderly people based on a novel microservice architecture
+machine learning for prediction of all-cause mortality in patients with suspected coronary artery disease: a 5-year multicentre prospective registry analysis
+heart disease prediction system based on hidden naïve bayes classifier
+mathematical approaches to infectious disease prediction and control
+rare disease prediction by generating quality-assured electronic health records∗
+machine learning for classification and prediction of brain diseases: recent advances and upcoming challenges
+an improved approach for prediction of parkinson's disease using machine learning techniques
+prediction of different classes of skin disease using machine learning techniques
+joint multi-modal longitudinal regression and classification for alzheimer's disease prediction
+[pdf][pdf] prediction of heart disease using machine learning algorithms: a survey
+improving disease prediction using icd-9 ontological features
+statistical analysis of a low cost method for multiple disease prediction
+[pdf][pdf] a comprehensive review of heart disease prediction using machine learning
+a comparison of data mining algorithms for liver disease prediction on imbalanced data
+[html][html] an exploration of ontology-based emr data abstraction for diabetic kidney disease prediction
+analysis and prediction of cardio vascular disease using machine learning classifiers
+[html][html] cardiovascular disease risk prediction using automated machine learning: a prospective study of 423,604 uk biobank participants
+deep learning-based automated feature engineering for rice leaf disease prediction
+[html][html] application of generalized split linearized bregman iteration algorithm for alzheimer's disease prediction
+[pdf][pdf] chronic kidney disease prediction using machine learning
+seasonal crops disease prediction and classification using deep convolutional encoder network
+iot-based strawberry disease prediction system for smart farming
+an intelligent iot with cloud centric medical decision support system for chronic kidney disease prediction
+efficient heart disease prediction system using decision tree
+[pdf][pdf] the use of data mining techniques in heart disease prediction
+prediction of coronary heart disease using machine learning: an experimental analysis
+a comparative analysis of the ensemble method for liver disease prediction
+an evolutionary algorithm for heart disease prediction
+prediction of cardiac disease using supervised machine learning algorithms
+heart disease prediction using cnn algorithm
+parkinson's disease prediction using gene expression–a projection based learning meta-cognitive neural classifier approach
+[pdf][pdf] intelligent heart disease prediction model using classification algorithms
+[pdf][pdf] of-knn technique: an approach for chronic kidney disease prediction
+[pdf][pdf] chronic kidney disease prediction using machine learning models
+[pdf][pdf] heart disease prediction based on external factors: a machine learning approach
+risk prediction of kidney disease using machine learning strategies
+[html][html] comparison and development of machine learning tools in the prediction of chronic kidney disease progression
+[pdf][pdf] heart disease prediction with data mining clustering algorithms
+[pdf][pdf] data mining apriori algorithm for heart disease prediction
+[html][html] large sample size, wide variant spectrum, and advanced machine-learning technique boost risk prediction for inflammatory bowel disease
+comparative study of feature engineering techniques for disease prediction
+[pdf][pdf] data mining classification algorithms for heart disease prediction
+[pdf][pdf] implementation of machine learning model to predict heart failure disease
+disease prediction using graph convolutional networks: application to autism spectrum disorder and alzheimer's disease
+optimized machine learning methods for prediction of cognitive outcome in parkinson's disease
+a survey of machine learning techniques for cancer disease prediction and diagnosis.
+a systematic review and analysis of the heart disease prediction methodology
+machine learning in medicine
+machine learning algorithm-based risk prediction model of coronary artery disease
+heart disease prediction system using k-nearest neighbor algorithm with simplified patient's health parameters
+application of data mining techniques on heart disease prediction: a survey
+chronic kidney disease prediction using back propagation neural network algorithm
+a data mining approach for prediction of heart disease using neural networks
+ensemble of multiple models for robust intelligent heart disease prediction system
+a comprehensive analysis of privacy-preserving techniques in deep learning based disease prediction systems
+[html][html] mlmda: a machine learning approach to predict and validate microrna–disease associations by integrating of heterogenous information sources
+machine learning in agriculture: a review
+disease prediction using hybrid k-means and support vector machine
+using combined descriptive and predictive methods of data mining for coronary artery disease prediction: a case study approach
+[pdf][pdf] machine learning based approaches for prediction of parkinson's disease
+[html][html] effective heart disease prediction system using data mining techniques
+an empirical study on prediction of heart disease using classification data mining techniques
+influence of medical domain knowledge on deep learning for alzheimer's disease prediction
+[html][html] a new disease-specific machine learning approach for the prediction of cancer-causing missense variants
+a novel adaptive neuro fuzzy inference system based classification model for heart disease prediction.
+[pdf][pdf] mining association rules from large datasets towards disease prediction
+med-bert: pre-trained contextualized embeddings on large-scale structured electronic health records for disease prediction
+disease risk prediction by using convolutional neural network
+evaluation of machine learning methods to stroke outcome prediction using a nationwide disease registry
+[pdf][pdf] prediction of chronic kidney disease using data mining techniques
+[pdf][pdf] robust cluster-then-label (rctl) approach for heart disease prediction.
+latest trends on heart disease prediction using machine learning and image fusion
+[pdf][pdf] a review on heart disease prediction using unsupervised and supervised learning
+a diabetic disease prediction model based on classification algorithms
+evaluation of kernel-based extreme learning machine performance for prediction of chronic kidney disease
+multi-disease prediction with artificial intelligence from core health parameters measured through non-invasive technique
+[html][html] a low-cost method for multiple disease prediction
+disease prediction by cell-free dna methylation
+early alzheimer's disease prediction in machine learning setup: empirical analysis with missing value computation
+heart disease prediction using machine learning techniques
+[html][html] enhanced character-level deep convolutional neural networks for cardiovascular disease prediction
+explainable prediction of acute myocardial infarction using machine learning and shapley values
+analysis and prediction of breast cancer and diabetes disease datasets using data mining classification techniques
+[pdf][pdf] a novel method for disease prediction: hybrid of random forest and multivariate adaptive regression splines
+[pdf][pdf] performance evaluation of data mining classification techniques for heart disease prediction
+mapreduce-based big data framework using modified artificial neural network classifier for diabetic chronic disease prediction
+[html][html] evolutionary wavelet neural network ensembles for breast cancer and parkinson's disease prediction
+[html][html] model-based and model-free machine learning techniques for diagnostic prediction and classification of clinical outcomes in parkinson's disease
+skin disease prediction using ensemble methods and a new hybrid feature selection technique
+analysis of heart disease prediction using various machine learning techniques
+[pdf][pdf] intelligent heart disease prediction system using random forest and evolutionary approach
+hybrid svm-lr classifier for powdery mildew disease prediction in tomato plant
+[pdf][pdf] generating comparative analysis of early stage prediction of chronic kidney disease
+deep landscape features for improving vector-borne disease prediction
+[html][html] regularized machine learning in the genetic prediction of complex traits
+[html][html] prediction system for heart disease using naive bayes and particle swarm optimization
+diabetes prediction in healthcare systems using machine learning algorithms on hadoop cluster
+scrop: a internet-of-agro-things (ioat) enabled solar powered smart device for automatic plant disease prediction
+[pdf][pdf] cardiovascular disease prediction model using machine learning algorithms
+[html][html] scaling and contextualizing personalized healthcare: a case study of disease prediction algorithm integration
+prediction and validation of disease genes using hetesim scores
+partial derivative nonlinear global pandemic machine learning prediction of covid 19
+machine learning for precision psychiatry: opportunities and challenges
+[pdf][pdf] survey on heart disease prediction system based on data mining techniques
+0832 evaluating supervised machine learning models for cardiovascular disease prediction using conventional risk factors, apnea-hypopnea index and epworth …
+classification and disease prediction via mathematical programming
+prediction of heart diseases using associative classification
+knowledge discovery and diseases prediction: a comparative study of machine learning techniques
+a novel holistic disease prediction tool using best fit data mining techniques
+association clustering and time series based data mining in continuous data for diabetes prediction
+prediction of diabetes using machine learning algorithms in healthcare
+machine learning–based heart disease prediction system for indian population: an exploratory study done in south india
+[html][html] a review and tutorial of machine learning methods for microbiome host trait prediction
+supervised machine learning techniques and genetic optimization for occupational diseases risk prediction
+a survey on diverse chronic disease prediction models and implementation techniques
+heart disease prediction using machine learning algorithms
+[pdf][pdf] paddy crop disease prediction–a transfer learning technique
+[pdf][pdf] analysis and prediction of diabetes diseases using machine learning algorithm: ensemble approach
+implementation of a web application to predict diabetes disease: an approach using machine learning algorithm
+machine learning techniques and polygenic risk score application to prediction genetic diseases
+machine learning for drug-target interaction prediction
+[pdf][pdf] development of an iot-based and cloud-based disease prediction and diagnosis system for healthcare using machine learning algorithms
+the alzheimer's disease prediction of longitudinal evolution (tadpole) challenge: results after 1 year follow-up
+comparing different feature selection algorithms for cardiovascular disease prediction
+[citation][c] prediction of chronic kidney disease using random forest machine learning algorithm
+reflection on modern methods: when worlds collide—prediction, machine learning and causal inference
+[html][html] development of a mathematical model for skin disease prediction using response surface methodology
+mv5: a clinical decision support framework for heart disease prediction using majority vote based classifier ensemble
+heart disease prediction using machine learning technique
+analysis and prediction of diabetes using machine learning
+[pdf][pdf] gdps-general disease prediction system
+[html][html] comparison of machine learning algorithms for clinical event prediction (risk of coronary heart disease)
+cardiovascular event prediction by machine learning: the multi-ethnic study of atherosclerosis
+an e-healthcare system for disease prediction using hybrid data mining technique
+[pdf][pdf] review on heart disease prediction system using data mining techniques
+machine-learning-based patient-specific prediction models for knee osteoarthritis
+strategic analysis in prediction of liver disease using different classification algorithms
+[pdf][pdf] prediction of depression among senior citizens using machine learning classifiers
+[pdf][pdf] disease prediction system using data mining hybrid approach
+comparative analysis of the classification performance of machine learning classifiers and deep neural network classifier for prediction of parkinson disease
+degree of disease possibility (ddp): a mining based statistical measuring approach for disease prediction in health care data mining
+a review on machine learning techniques for data-driven heart disease prediction
+a medical-history-based potential disease prediction algorithm
+classification and prediction of diabetes disease using machine learning paradigm
+[pdf][pdf] … analysis on feature selection methods, clustering and classification used in heart disease prediction–a machine learning …
+does data cleaning improve heart disease prediction?
+towards cough sound analysis using the internet of things and deep learning for pulmonary disease prediction
+development and internal validation of machine learning algorithms for preoperative survival prediction of extremity metastatic disease
+hybrid cascade forward neural network with elman neural network for disease prediction
+ai-based stroke disease prediction system using real-time electromyography signals
+heart disease prediction using machine learning techniques
+improving the prediction accuracy of heart disease with ensemble learning and majority voting rule
+heartcare: iot based heart disease prediction system
+[pdf][pdf] intelligent health risk prediction systems using machine learning: a review
+prediction of rice disease from leaves using deep convolution neural network towards a digital agricultural system
+prediction and diagnosis of future diabetes risk: a machine learning approach
+cardiovascular disease prediction using deep learning techniques
+a survey to identify an efficient classification algorithm for heart disease prediction
+smart automated irrigation system with disease prediction
+an approach of cardiac disease prediction by analyzing ecg signal
+drppp: a machine learning based tool for prediction of disease resistance proteins in plants
+[pdf][pdf] using machine learning algorithms in cardiovascular disease risk evaluation
+cuckoo search optimized reduction and fuzzy logic classifier for heart disease and diabetes prediction
+simple cystatin c–based prediction equations for glomerular filtration rate compared with the modification of diet in renal disease prediction equation for adults and …
+chronic kidney disease prediction using machine learning methods
+[pdf][pdf] study and analysis of prediction model for heart disease: an optimization approach using genetic algorithm
+[pdf][pdf] prediction of heart diseases using data mining and machine learning algorithms and tools
+[html][html] detection of subjects and brain regions related to alzheimer's disease using 3d mri scans based on eigenbrain and machine learning
+prediction of coronary heart disease using supervised machine learning algorithms
+[html][html] improving prediction of risk of hospital admission in chronic obstructive pulmonary disease: application of machine learning to telemonitoring data
+chronic disease prediction using character-recurrent neural network in the presence of missing information
+an analysis on chronic kidney disease prediction system: cleaning, preprocessing, and effective classification of data
+[pdf][pdf] disease prediction based on prior knowledge
+[pdf][pdf] comparing data mining techniques used for heart disease prediction
+cancer disease prediction with support vector machine and random forest classification techniques
+crop pests prediction method using regression and machine learning technology: survey
+a data mining approach for coronary artery disease prediction in iran
+[html][html] prediction of hepatitis e using machine learning models
+[pdf][pdf] heart disease prediction system using svm and naive bayes
+multi disease-prediction framework using hybrid deep learning: an optimal prediction model
+applying spark based machine learning model on streaming big data for health status prediction
+[pdf][pdf] artificial lampyridae classifier (alc) for coronary artery heart disease prediction in diabetes patients
+[html][html] machine learning and data mining methods in diabetes research
+knowledge-driven machine learning based framework for early-stage disease risk prediction in edge environment
+heart disease prediction using machine learning algorithms
+evaluating ensemble prediction of coronary heart disease using receiver operating characteristics
+[html][html] improving the accuracy of prediction of heart disease risk based on ensemble classification techniques
+a modified svm classifier based on rs in medical disease prediction
+effective asthma disease prediction using naive bayes—neural network fusion technique
+dietary prediction for patients with chronic kidney disease (ckd) by considering blood potassium level using machine learning algorithms
+[html][html] sarcopenia feature selection and risk prediction using machine learning: a cross-sectional study
+decision support system for diagnosis and prediction of chronic renal failure using random subspace classification
+a metaphoric investigation on prediction of heart disease using machine learning
+[pdf][pdf] application of group lasso regression based bayesian networks in risk factors exploration and disease prediction for acute kidney injury in hospitalized …
+machine learning for large‐scale wearable sensor data in parkinson's disease: concepts, promises, pitfalls, and futures
+heart disease prediction by using machine learning algorithms
+[pdf][pdf] an overview of data mining techniques applied for heart disease diagnosis and prediction
+[pdf][pdf] heart disease prediction using naïve bayes
+[pdf][pdf] machine learning for disease prediction by using neural networks
+knowledge discovery using associative classification for heart disease prediction
+early prediction of chronic kidney disease using machine learning supported by predictive analytics
+survey of heart disease prediction and identification using machine learning approaches
+[html][html] risk estimation and risk prediction using machine-learning methods
+review paper on prediction of crop disease using iot and machine learning
+[html][html] machine learning in medicine: performance calculation of dementia prediction by support vector machines (svm)
+comparison of machine learning models for parkinson's disease prediction
+a fast fourier transform-coupled machine learning-based ensemble model for disease risk prediction using a real-life dataset
+machine learning framework for early mri-based alzheimer's conversion prediction in mci subjects
+a method to predict diagnostic codes for chronic diseases using machine learning techniques
+interpretable disease prediction based on reinforcement path reasoning over knowledge graphs
+cardiovascular disease prediction using support vector machines
+an integrated machine learning approach to stroke prediction
+[pdf][pdf] disease prediction and analysis for healthcare communities
+[pdf][pdf] heart disease prediction system using hybrid technique of data mining algorithms
+diffuse large b-cell lymphoma outcome prediction by gene-expression profiling and supervised machine learning
+multivariate data analysis and machine learning in alzheimer's disease with a focus on structural magnetic resonance imaging
+genetic neural approach for heart disease prediction
+[html][html] a clinically-translatable machine learning algorithm for the prediction of alzheimer's disease conversion: further evidence of its accuracy via a transfer learning …
+[pdf][pdf] a review on heart disease prediction using machine learning techniques
+[pdf][pdf] hybrid approach for disease prediction
+[html][html] accurate prediction of coronary heart disease for patients with hypertension from electronic health records with big data and machine-learning methods …
+spatio-temporal prediction of crop disease severity for agricultural emergency management based on recurrent neural networks
+[pdf][pdf] disease prediction via bayesian hyperparameter optimization and ensemble learning
+[pdf][pdf] comparative analysis of various classification and clustering algorithms for heart disease prediction system
+a comparative study of classification-based machine learning methods for novel disease gene prediction
+performance evaluation of ensemble-based machine learning techniques for prediction of chronic kidney disease
+dynamic heart disease prediction using multi-machine learning techniques
+disease prediction on the basis of snps
+disease prediction model based on bilstm and attention mechanism
+[html][html] machine learning models to predict disease progression among veterans with hepatitis c virus
+medical knowledge-based deep learning framework for disease prediction on unstructured radiology free-text reports under low data condition
+machine learning of clinical variables and coronary artery calcium scoring for the prediction of obstructive coronary artery disease on coronary computed tomography …
+[html][html] statistics and deep belief network-based cardiovascular risk prediction
+disease forecasting system using data mining methods
+diagnosis of heart disease using datamining algorithm
+prediction of hepatitis disease using machine learning technique
+performance measurements of machine learning approaches for prediction and diagnosis of chronic kidney disease (ckd)
+heart disease prediction using machine learning
+rule optimization of boosted c5. 0 classification using genetic algorithm for liver disease prediction
+[pdf][pdf] heart diseases prediction using deep learning neural network model
+disease prediction using metagenomic data visualizations based on manifold learning and convolutional neural network
+weight optimized neural network for heart disease prediction using hybrid lion plus particle swarm algorithm
+cardiovascular disease prediction from electrocardiogram by using machine learning
+[html][html] deep learning in alzheimer's disease: diagnostic classification and prognostic prediction using neuroimaging data
+intelligent liver disease prediction (ildp) system using machine learning models
+disease prediction of mango crop using machine learning and iot
+prediction of heart disease using classification based data mining techniques
+a hybrid machine learning approach for prediction of heart diseases
+multi-task knowledge distillation for eye disease prediction
+[pdf][pdf] heart disease prediction system using data mining techniques: a study
+a clinically-translatable machine learning algorithm for the prediction of alzheimer's disease conversion in individuals with mild and premild cognitive impairment
+deep learning for prediction of obstructive disease from fast myocardial perfusion spect: a multicenter study
+work-in-progress: chronic disease risk prediction using distributed machine learning classifiers
+[html][html] prediction of disease progression and outcomes in multiple sclerosis with machine learning
+multiclass machine learning classification of functional brain images for parkinson's disease stage prediction
+adversarial training for disease prediction from electronic health records with missing data
+disease prediction in plants: an application of machine learning in agriculture sector
+adaptable web prediction framework for disease prediction based on the hybrid case based reasoning model
+[html][html] immovable cultural relics disease prediction based on relevance vector machine
+[pdf][pdf] comparison and development of machine learning tools for the prediction of chronic obstructive pulmonary disease in the chinese population
+[html][html] research on improved depth belief network-based prediction of cardiovascular diseases
+[pdf][pdf] a survey on heart disease prediction system using data mining techniques
+machine learning–based prediction of outcomes of the endoscopic endonasal approach in cushing disease: is the future coming?
+[pdf][pdf] disease prediction using machine learning
+[pdf][pdf] heart attack prediction using deep learning
+tadpole challenge: prediction of longitudinal evolution in alzheimer's disease
+development and validation of machine learning models in prediction of remission in patients with moderate to severe crohn disease
+neural network and support vector machine for the prediction of chronic kidney disease: a comparative study
+ontology-driven text feature modeling for disease prediction using unstructured radiological notes
+feature extraction and disease prediction from paddy crops using data mining techniques
+the analysis of machine learning techniques for heart disease prediction
+analysing and improving the diagnosis of ischaemic heart disease with machine learning
+[pdf][pdf] heart disease prediction using multilayer perceptron algorithm
+alzheimer disease prediction model based on decision fusion of cnn-bilstm deep neural networks
+comparative analysis for heart disease prediction
+[pdf][pdf] prediction of heart disease using k-means and artificial neural network as hybrid approach to improve accuracy
+[pdf][pdf] malaria outbreak prediction model using machine learning
+[html][html] a new internet of things architecture for real-time prediction of various diseases using machine learning on big data environment
+data mining for cardiovascular disease prediction
+[pdf][pdf] data mining in clinical decision support systems for diagnosis, prediction and treatment of heart disease
+[html][html] machine learning prediction of incidence of alzheimer's disease using large-scale administrative health data
+an efficient radius-incorporated mkl algorithm for alzheimer׳ s disease prediction
+a logistic regression and artificial neural network-based approach for chronic disease prediction: a case study of hypertension
+a model for coronary heart disease prediction using data mining classification techniques
+a classification model based on an adaptive neuro-fuzzy inference system for disease prediction
+[pdf][pdf] heart disease prediction using data mining techniques
+disease prediction and diagnosis system in cloud based iot: a review on deep learning techniques
+a survey on plant disease prediction using machine learning and deep learning techniques
+[html][html] drug repurposing prediction for immune-mediated cutaneous diseases using a word-embedding–based machine learning approach
+machine learning prediction models for diagnosing hepatocellular carcinoma with hcv-related chronic liver disease
+time to care: a collaborative engine for practical disease prediction
+heart disease prediction system evaluation using c4. 5 rules and partial tree
+machine learning-based prediction models for 30-day readmission after hospitalization for chronic obstructive pulmonary disease
+[pdf][pdf] an effective heart disease prediction method using artificial neural network
+image features based intelligent apple disease prediction system: machine learning based apple disease prediction system
+[pdf][pdf] parkinson's brain disease prediction using big data analytics
+heart disease prediction using deep neural network
+[html][html] prediction of microrna-disease associations based on social network analysis methods
+machine learning for genetic prediction of psychiatric disorders: a systematic review
+prediction of risk score for heart disease using associative classification and hybrid feature subset selection
+machine learning based coronary artery disease prediction
+[html][html] machine learning approaches to predict lupus disease activity from gene expression data
+[pdf][pdf] an effective classification rule technique for heart disease prediction
+prediction models for healthcare using machine learning: a review
+machine learning based models for cardiovascular risk prediction
+prediction of chronic kidney disease-a machine learning perspective
+[pdf][pdf] analysis and prediction of diabetes mellitus using machine learning algorithm
+prediction of chronic disease by machine learning
+[pdf][pdf] an experimental study of diabetes disease prediction system using classification techniques
+edge-variational graph convolutional networks for uncertainty-aware disease prediction
+accuracy prediction using machine learning techniques for indian patient liver disease
+comparative study of chronic kidney disease prediction using different classification techniques
+machine learning methods for optimal prediction of outcome in parkinson's disease
+[pdf][pdf] a study of data mining techniques accuracy for healthcare
+[book][b] neural networks in healthcare: potential and challenges: potential and challenges
+big-data and cyber-physical systems in healthcare: challenges and opportunities
+bridging e-health and the internet of things: the sphere project
+state-of-the-art methods in healthcare text classification system: ai paradigm.
+escaped: efficient secure and private dot product framework for kernel-based machine learning algorithms with applications in healthcare
+[html][html] comparison of machine-learning classification models for glaucoma management
+sentiment analysis in healthcare: a brief review
+[html][html] glaucoma diagnosis with machine learning based on optical coherence tomography and color fundus images
+an intelligent healthcare monitoring framework using wearable sensors and social networking data
+[pdf][pdf] artificial intelligence integration in healthcare and medicine
+a machine learning platform in healthcare with actor model approach
+[html][html] machine learning for medical imaging
+a future research agenda for digital geriatric mental healthcare
+[pdf][pdf] a review on data mining in healthcare
+emerging information technologies for enhanced healthcare
+stable teamwork marriages in healthcare: applying machine learning to surgeon-nurse-patient matching
+[pdf][pdf] data mining applications in healthcare sector: a study
+data driven analytics for personalized healthcare
+deep learning in healthcare
+[pdf][pdf] ethical and moral issues with ai: a case study on healthcare robots
+[pdf][pdf] a survey of different approaches of machine learning in healthcare management system
+an empirical study of representation learning for reinforcement learning in healthcare
+a deep inference learning framework for healthcare
+recent advances on graph analytics and its applications in healthcare
+collaborative federated learning for healthcare: multi-modal covid-19 diagnosis at the edge
+use of artificial intelligence in healthcare delivery
+assessing short-term social media marketing outreach of a healthcare organization using machine learning
+extensive survey on cloud-based iot-healthcare and security using machine learning
+healthcare data scientist qualifications, skills, and job focus: a content analysis of job postings
+artificial intelligence in healthcare
+[html][html] deep learning predicts hip fracture using confounding patient and healthcare variables
+working towards the development and implementation of precision mental healthcare: an example
+deephealth: deep learning for health informatics
+[html][html] value-based healthcare: can artificial intelligence provide value in orthopaedic surgery?
+wireless sensor networks for healthcare: a survey
+application of statistics and machine learning in healthcare
+big data challenges and opportunities in healthcare informatics and smart hospitals
+[html][html] detras: deep learning-based healthcare framework for iot-based assistance of alzheimer patients
+machine learning based prediction and modeling in healthcare secured internet of things
+toward practical privacy-preserving analytics for iot and cloud-based healthcare systems
+a digital platform for remote healthcare monitoring
+machine learning in medicine
+a state of art approaches on deep learning models in healthcare: an application perspective
+[html][html] the times they are a-changin'–healthcare 4.0 is coming!
+application of artificial intelligence in modern healthcare system
+wearables, artificial intelligence, and the future of healthcare
+the role of artificial intelligence in learning and professional development for healthcare professionals
+dynamic knowledge mapping guided by data mining: application on healthcare
+feature robustness in non-stationary health records: caveats to deployable model performance in common clinical machine learning tasks
+[pdf][pdf] techniques of data mining in healthcare: a review
+smart healthcare via efficient machine learning
+fairness in machine learning for healthcare
+trusting artificial intelligence in healthcare
+a comprehensive review on usage of internet of things (iot) in healthcare system
+a machine learning based framework for the smart healthcare system
+a data enhancement approach to improve machine learning performance for predicting health status using remote healthcare data
+[html][html] comparison of time series methods and machine learning algorithms for forecasting taiwan blood services foundation's blood supply
+a systematic review of the availability and efficacy of countermeasures to internal threats in healthcare critical infrastructure
+iot based wearable sensor for diseases prediction and symptom analysis in healthcare sector
+method and system for machine learning based assessment of fractional flow reserve
+[html][html] big data in healthcare–the promises, challenges and opportunities from a research perspective: a case study with a model database
+modeling machine learning requirements from three perspectives: a case report from the healthcare domain
+methods for safety signal detection in healthcare databases: a literature review
+deep learning for multigrade brain tumor classification in smart healthcare systems: a prospective survey
+the role of metaheuristic algorithms in healthcare
+[pdf][pdf] the potential of learning healthcare systems
+machine learning interpretability: a survey on methods and metrics
+[pdf][pdf] a study on analysis of various data mining classification techniques on healthcare data
+radar sensing for healthcare
+[html][html] healthcare applications of smart watches: a systematic review
+big data classification and internet of things in healthcare
+[html][html] big data in healthcare: management, analysis and future prospects
+internet of things in healthcare
+[html][html] artificial intelligence in healthcare: review and prediction case studies
+[html][html] smart healthcare
+[pdf][pdf] chatbots meet ehealth: automatizing healthcare.
+machine learning and optimization for healthcare and energy systems
+[html][html] blood pressure estimation using photoplethysmography only: comparison between different machine learning approaches
+sphere: a sensor platform for healthcare in a residential environment
+artificial intelligence in the healthcare of older people
+an advanced conceptual diagnostic healthcare framework for diabetes and cardiovascular disorders
+guest editorialintegrated healthcare information systems
+big data knowledge system in healthcare
+[pdf][pdf] machine learning in healthcare
+letter in response to google deepmind and healthcare in an age of algorithms
+[pdf][pdf] ai, iot and wearable technology for smart healthcare–a review
+[html][html] automated breast cancer diagnosis based on machine learning algorithms
+health-cps: healthcare cyber-physical system assisted by cloud and big data
+cloud and iot based disease prediction and diagnosis system for healthcare using fuzzy neural classifier
+a framework for big data technology in health and healthcare
+axes of a revolution: challenges and promises of big data in healthcare
+a probabilistic programming approach for outlier detection in healthcare claims
+predicting breast cancer survivability using fuzzy decision trees for personalized healthcare
+[pdf][pdf] advocating for safe, quality and just care: what nursing leaders need to know about artificial intelligence in healthcare delivery
+[html][html] a comprehensive survey on machine learning-based big data analytics for iot-enabled smart healthcare system
+a healthcare text classification system and its performance evaluation: a source of better intelligence by characterizing healthcare text
+ethical healthcare agents
+making sense of the shadows: priorities for creating a learning healthcare system based on routinely collected data
+medical image forgery detection for smart healthcare
+federated machine learning: concept and applications
+healthcare 4.0: a review of frontiers in digital health
+explainable machine-learning predictions for the prevention of hypoxaemia during surgery
+[pdf][pdf] will you be in hospital next year: leveraging machine learning in improving healthcare
+a systematic review of techniques and sources of big data in the healthcare sector
+[html][html] smart healthcare: making medical care more intelligent
+natural language processing to measure the frequency and mode of communication between healthcare professionals and family members of critically ill patients
+speech technology for healthcare: opportunities, challenges, and state of the art
+a body sensor data fusion and deep recurrent neural network-based behavior recognition approach for robust healthcare
+a systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models
+the healthcare system perspective in mhealth
+healthfog: an ensemble deep learning based smart healthcare system for automatic diagnosis of heart diseases in integrated iot and fog computing environments
+towards a rigorous science of interpretable machine learning
+an iot-cloud based solution for real-time and batch processing of big data: application in healthcare
+artificial intelligence in healthcare and medicine: promises, ethical challenges and governance
+machine learning approach of automatic identification and counting of blood cells
+iot healthcare analytics: the importance of anomaly detection
+[html][html] unsupervised anomaly detection of healthcare providers using generative adversarial networks
+[pdf][pdf] machine learning in healthcare: an overview
+[pdf][pdf] taxonomy of data mining and machine learning approaches for healthcare systems
+gram: graph-based attention model for healthcare representation learning
+the pivotal role of edge computing with machine learning and its impact on healthcare
+smart healthcare framework for ambient assisted living using iomt and big data analytics techniques
+effectiveness of social media data in healthcare communication
+learning word embeddings with chi-square weights for healthcare tweet classification
+[book][b] healthcare data analytics
+[html][html] machine learning applications in healthcare
+machine learning infused preventive healthcare for high-risk outpatient elderly
+internet of things for smart healthcare: technologies, challenges, and opportunities
+introduction to the minitrack on big data on healthcare application
+big data and its utility in social work: learning from the big data revolution in business and healthcare
+healthcare 4.0: a voyage of fog computing with iot, cloud computing, big data, and machine learning
+improving healthcare access management by predicting patient no-show behaviour
+[pdf][pdf] artificial intelligence in healthcare
+learning representations from healthcare time series data for unsupervised anomaly detection
+blockchain platform for industrial healthcare: vision and future opportunities
+[pdf][pdf] a new machine learning classifier for high dimensional healthcare data
+healthcare analysis in smart big data analytics: reviews, challenges and recommendations
+healthcare ner models using language model pretraining
+digital twin for intelligent context-aware iot healthcare systems
+[html][html] big data analytics in healthcare
+assessing data traffic classification to priority access for wireless healthcare application
+[pdf][pdf] healthcare predictive analytics for risk profiling in chronic care: a bayesian multitask learning approach.
+fast and peer-to-peer vital signal learning system for cloud-based healthcare
+cyber resilience in healthcare digital twin on lung cancer
+machine learning techniques to examine large patient databases
+software defined healthcare networks
+prediction of malignant and benign breast cancer: a data mining approach in healthcare applications
+optimization and machine learning methods for medical and healthcare applications
+developing a framework for a healthcare data science hub; challenges and lessons learned.
+[book][b] machine learning: hands-on for developers and technical professionals
+healthcare price finder: a web-based application for estimating healthcare medical cost by modeling medicare data with machine learning
+a qualitative assessment of machine learning support for detecting data completeness and accuracy issues to improve data analytics in big data for the healthcare …
+[html][html] converging blockchain and next-generation artificial intelligence technologies to decentralize and accelerate biomedical research and healthcare
+machine learning in nutritional follow-up research
+[pdf][pdf] implementing ai in healthcare
+big data based hybrid machine learning model for improving performance of medical internet of things data in healthcare systems
+bridging the vocabulary gap between health seekers and healthcare knowledge
+methodological challenges and analytic opportunities for modeling and interpreting big healthcare data
+semi-supervised learning quantization algorithm with deep features for motor imagery eeg recognition in smart healthcare application
+agents and healthcare: a glance to the future
+machine learning: an applied econometric approach
+modeling healthcare quality via compact representations of electronic health records
+machine learning for medical imaging
+advanced internet of things for personalised healthcare systems: a survey
+an overview and case study of the clinical ai model development life cycle for healthcare systems
+integrated natural language processing and machine learning models for standardizing radiotherapy structure names
+breakthrough healthcare technologies in the covid-19 era: a unique opportunity for cardiovascular practitioners and patients.
+internet of things for sensing: a case study in the healthcare system
+how to implement machine learning in healthcare
+artificial intelligence, machine learning, deep learning, and cognitive computing: what do these terms mean and how will they impact health care?
+why policymakers should care about “big data” in healthcare
+potential biases in machine learning algorithms using electronic health record data
+healthcare algorithms by wearable inertial sensors: a survey
+performance analysis of machine learning algorithm for healthcare tools with high dimension segmentation
+calibrating healthcare ai: towards reliable and interpretable deep predictive models
+machine learning and multi-criteria decision analysis in healthcare: a comparison of machine learning algorithms for medical diagnosis
+[html][html] artificial intelligence for personalized preventive adolescent healthcare
+iglu: an intelligent device for accurate noninvasive blood glucose-level monitoring in smart healthcare
+autilife: a healthcare monitoring system for autism center in 5g cellular network using machine learning approach
+cognitive smart healthcare for pathology detection and monitoring
+the multiplier effect of applied machine learning technology in modern healthcare
+importance of data mining in healthcare: a survey
+healthcare data heterogeneity and its contribution to machine learning performance
+healthcare and digital transformation
+[pdf][pdf] showcasing the impact of machine learning in healthcare
+[pdf][pdf] effective and secure healthcare machine learning system with explanations based on high quality crowdsourcing data
+efficient approach to detect epileptic seizure using machine learning models for modern healthcare system
+digital healthcare public health
+[html][html] a survey of open source tools for machine learning with big data in the hadoop ecosystem
+online detection of freezing of gait with smartphones and machine learning techniques
+inside me: a proposal for healthcare mobile application
+challenges in designing an online healthcare platform for personalised patient analytics
+applied data science in patient-centric healthcare: adaptive analytic systems for empowering physicians and patients
+detection of myocardial infarction based on novel deep transfer learning methods for urban healthcare in smart cities
+business data mining—a machine learning perspective
+computational methods for predicting chronic disease in healthcare communities
+[html][html] illuminating the dark spaces of healthcare with ambient intelligence
+[html][html] using statistical and machine learning methods to evaluate the prognostic accuracy of sirs and qsofa
+big data, big knowledge: big data for personalized healthcare
+kyp modeling architecture for cardiovascular diseases and treatments in healthcare institutions
+hierarchical attention propagation for healthcare representation learning
+data analytics in smart healthcare: the recent developments and beyond
+transformation in healthcare by wearable devices for diagnostics and guidance of treatment
+leveraging machine learning techniques for windows ransomware network traffic detection
+internet of things driven connected healthcare
+virtual patient model: an approach for generating synthetic healthcare time series data
+a national evaluation of antibiotic expenditures by healthcare setting in the united states, 2009
+big data ensemble clinical prediction for healthcare data by using deep learning model
+intelligent healthcare systems assisted by data analytics and mobile computing
+role of soft computing approaches in healthcare domain: a mini review
+[pdf][pdf] toward vo-based collaboration between computational intelligence-machine learning and healthcare communities
+applying machine learning techniques for adme-tox prediction: a review
+concurrence of big data analytics and healthcare: a systematic review
+[html][html] machine learning for healthcare: emerging challenges and opportunities in disease diagnosis
+a smart architecture for diabetic patient monitoring using machine learning algorithms
+healthcare social data platform based on linked data and machine learning
+5g-based smart healthcare network: architecture, taxonomy, challenges and future research directions
+generating synthetic but plausible healthcare record datasets
+a review on the role of nano-communication in future healthcare systems: a big data analytics perspective
+healthcare data mining: prediction inpatient length of stay
+[pdf][pdf] the role of smart personal assistant for improving personal healthcare
+internet of things-enabled smart devices in medical practice: healthcare big data, wearable biometric sensors, and real-time patient monitoring
+from big data to smart data for pharmacovigilance: the role of healthcare databases and other emerging sources
+towards the science of security and privacy in machine learning
+big healthcare data analytics: challenges and applications
+[html][html] machine learning in healthcare and medicine applications
+emerging technologies in healthcare: analysis of unos data through machine learning
+[pdf][pdf] a survey on classification algorithms used in healthcare environment of the internet of things
+intelligent learning analytics in healthcare sector using machine learning
+fog-enabled smart health: toward cooperative and secure healthcare service provision
+enabling cognitive smart cities using big data and machine learning: approaches and challenges
+smart-bot technology: conversational agents role in maternal healthcare support
+smart refrigerator for healthcare using food image classification
+a probabilistic ontology-based platform for self-learning context-aware healthcare applications
+[html][html] data analytics in mental healthcare
+applications of blockchain technology in medicine and healthcare: challenges and future perspectives
+big healthcare data analytics in internet of medical things
+[pdf][pdf] a comparative analysis of machine learning algorithms for healthcare device data of social iot
+lacas: learning automata-based congestion avoidance scheme for healthcare wireless sensor networks
+analysis of correlation between climate change and human health based on a machine learning approach. healthcare 2021, 9, 86
+a blockchain-orchestrated federated learning architecture for healthcare consortia
+[pdf][pdf] descriptive analysis of machine learning and its application in healthcare
+data science in healthcare: benefits, challenges and opportunities
+deep machine learning in healthcare: prognosis to diagnosis-a novel approach
+information extraction from multi-institutional radiology reports
+[pdf][pdf] health bank-a workbench for data science applications in healthcare.
+comparison of machine learning algorithms for the prediction of preventable hospital readmissions
+diagnostic accuracy of a machine-learning approach to coronary computed tomographic angiography–based fractional flow reserve: result from the machine …
+self-attention based recurrent convolutional neural network for disease prediction using healthcare data
+machine learning methods for disease prediction with claims data
+privacy preserving distributed learning clustering of healthcare data using cryptography protocols
+a two-step machine learning framework for wearable sensing systems in personal healthcare
+tracking vital signs of a patient using channel state information and machine learning for a smart healthcare system
+sequence embeddings help to identify fraudulent cases in healthcare insurance
+[html][html] healthcare predictive analytics: an overview with a focus on saudi arabia
+black hole attack detection in healthcare wireless sensor networks using independent component analysis machine learning technique
+a healthcare monitoring system for the diagnosis of heart disease in the iomt cloud environment using msso-anfis
+software engineering for machine learning: a case study
+predicting anxiety and depression in elderly patients using machine learning technology
+exploiting uncertainties from ensemble learners to improve decision-making in healthcare ai
+[book][b] applying quality management in healthcare: a systems approach
+[html][html] an interpretable machine learning model for accurate prediction of sepsis in the icu
+how the machine 'thinks': understanding opacity in machine learning algorithms
+computational healthcare system with image analysis
+targeted learning in healthcare research
+artificial intelligence and healthcare: products and procedures
+[html][html] survival outcomes post percutaneous coronary intervention: why the hype about stent type? lessons from a healthcare system in india
+unintended consequences of machine learning in medicine
+[html][html] cloud computing based systems for healthcare
+exploiting wifi channel state information for residential healthcare informatics
+iot based healthcare monitoring system using 5g communication and machine learning models
+a hybrid intelligent system for the prediction of parkinson's disease progression using machine learning techniques
+engagement, peer production, and the learning healthcare system
+detecting falls with wearable sensors using machine learning techniques
+a comprehensive review on the emerging iot-cloud based technologies for smart healthcare
+machine learning-based prediction of drug–drug interactions by integrating drug phenotypic, therapeutic, chemical, and genomic properties
+stability selection using a genetic algorithm and logistic linear regression on healthcare records
+an effective feature selection scheme for healthcare data classification using binary particle swarm optimization
+[html][html] artificial intelligence enabled healthcare: a hype, hope or harm
+ensuring fairness in machine learning to advance health equity
+applications of machine learning in drug discovery and development
+[html][html] wearable technology applications in healthcare: a literature review
+hai-proactive: development of an automated surveillance system for healthcare-associated infections in sweden
+gaussian processes for machine learning
+[html][html] attack and anomaly detection in iot sensors in iot sites using machine learning approaches
+a review on several critical issues and challenges in iot based e-healthcare system
+[book][b] healthcare analytics: from data to knowledge to healthcare improvement
+current applications and future impact of machine learning in radiology
+[pdf][pdf] a review of machine learning algorithms in healthcare
+towards secure and smart healthcare in smart cities using blockchain
+model-agnostic interpretability of machine learning
+wearable device technology in healthcare—exploring constraining and enabling factors
+machine learning for healthcare: beyond iid prediction.
+algorithms for size and color detection of smartphone images of chronic wounds for healthcare applications
+mime: multilevel medical embedding of electronic health records for predictive healthcare
+[html][html] healthcare, uncertainty, and fuzzy logic
+big data for healthcare: a survey
+emerging frontiers in smart environment and healthcare–a vision
+multi-view versus single-view machine learning for disease diagnosis in primary healthcare
+[html][html] deep neural architectures for prediction in healthcare
+[pdf][pdf] future trends of data mining in predicting the various diseases in medical healthcare system
+a survey of healthcare internet of things (hiot): a clinical perspective
+intrusion detection based on stacked autoencoder for connected healthcare systems
+[html][html] automated data-adaptive analytics for electronic healthcare data to study causal treatment effects
+machine learning in wireless sensor networks: algorithms, strategies, and applications
+a machine learning approach to twitter user classification
+machine learning for prediction of all-cause mortality in patients with suspected coronary artery disease: a 5-year multicentre prospective registry analysis
+secure medical data transmission model for iot-based healthcare systems
+a machine-learning approach for computation of fractional flow reserve from coronary computed tomography
+enabling smart personalized healthcare: a hybrid mobile-cloud approach for ecg telemonitoring
+predictive analysis for healthcare sector using big data technology
+internet of things and big data technologies for next generation healthcare
+[book][b] systems design for remote healthcare
+[citation][c] demystifying big data and machine learning for healthcare
+towards continuous monitoring in personalized healthcare through digital twins
+[pdf][pdf] healthcare information using machine learning approach
+social media news classification in healthcare communication
+a review of big data and its applications in healthcare and public sector
+[html][html] healthedatalab–a cloud computing solution for data science and advanced analytics in healthcare with application to predicting multi-center pediatric …
+[html][html] machine learning and data mining methods in diabetes research
+supervised learning-based classifiers in healthcare decision-making
+towards better healthcare: what could and should be automated?
+cloud-centric iot based disease diagnosis healthcare framework
+a wearable sensor-based activity prediction system to facilitate edge computing in smart healthcare system
+[html][html] multicenter comparison of machine learning methods and conventional regression for predicting clinical deterioration on the wards
+rfid technology for iot-based personal healthcare in smart spaces
+a machine learning based ensemble approach for predictive analysis of healthcare data
+class imbalance learning for identity management in healthcare
+using machine learning algorithms for breast cancer risk prediction and diagnosis
+[pdf][pdf] effect of machine learning in healthcare industry with reference to artificial intelligence
+[pdf][pdf] application of decision tree algorithm for data mining in healthcare operations: a case study
+big iot healthcare data analytics framework based on fog and cloud computing.
+machine learning applications in healthcare
+healthcare and lifestyle practices of healthcare workers: do healthcare workers practice what they preach?
+recent machine learning and internet of things (iot) applications for personalized healthcare: issues and challenges
+clinical data fusion and machine learning techniques for smart healthcare
+dipole: diagnosis prediction in healthcare via attention-based bidirectional recurrent neural networks
+[html][html] … evaluation of time series models for predicting influenza outbreaks: application of influenza-like illness data from sentinel sites of healthcare centers in iran
+[pdf][pdf] managing unstructured big data in healthcare system
+fine-grained concept linking using neural networks in healthcare
+personalized wearable systems for real-time ecg classification and healthcare interoperability: real-time ecg classification and fhir interoperability
+exploiting machine learning for end-to-end drug discovery and development
+cancer moonshot data and technology team: enabling a national learning healthcare system for cancer to unleash the power of data
+towards fog-driven iot ehealth: promises and challenges of iot in medicine and healthcare
+[pdf][pdf] blockchain technology in healthcare.
+a deep learning approach to on-node sensor data analytics for mobile or wearable devices
+a brief survey of machine learning methods and their sensor and iot applications
+automated surveillance of healthcare-associated infections: state of the art
+machine learning approaches for healthcare data analysis
+blockchain-based electronic healthcare record system for healthcare 4.0 applications
+[pdf][pdf] on speech datasets in machine learning for healthcare
+designing statistical assessment healthcare information system for diabetics analysis using big data
+healthcare process support: achievements, challenges, current research
+internet of things in healthcare: an extensive review on recent advances, challenges, and opportunities
+a review of challenges and barriers implementing rfid technology in the healthcare sector
+[html][html] machine learning in dermatology: current applications, opportunities, and limitations
+a facial-expression monitoring system for improved healthcare in smart cities
+prospects and challenges of volatile organic compound sensors in human healthcare
+[html][html] artificial intelligence and machine learning to fight covid-19
+regulating by robot: administrative decision making in the machine-learning era
+[pdf][pdf] making machine learning models interpretable.
+concare: personalized clinical feature embedding via capturing the healthcare context
+[html][html] guidelines for developing and reporting machine learning predictive models in biomedical research: a multidisciplinary view
+removing confounding factors associated weights in deep neural networks improves the prediction accuracy for healthcare applications.
+consumer credit-risk models via machine-learning algorithms
+healthcare: a complex service system
+intelligent nutrition in healthcare and continuous care
+interacting with predictions: visual inspection of black-box machine learning models
+techniques for interpretable machine learning
+kame: knowledge-based attention model for diagnosis prediction in healthcare
+a secure iot-based modern healthcare system with fault-tolerant decision making process
+deep learning and big data in healthcare: a double review for critical beginners
+diagnosing bias in data-driven algorithms for healthcare
+big data and machine learning in radiation oncology: state of the art and future prospects
+[pdf][pdf] medical internet of things and big data in healthcare
+physiological and behavior monitoring systems for smart healthcare environments: a review
+a machine learning approach to optimizing diabetes healthcare management using sas analytic suite
+a chatbot for psychiatric counseling in mental healthcare service based on emotional dialogue analysis and sentence generation
+a machine learning approach to predicting protein–ligand binding affinity with applications to molecular docking
+big data analytics: understanding its capabilities and potential benefits for healthcare organizations
+artificial intelligence: power for civilisation–and for better healthcare
+[citation][c] application of machine and deep learning algorithms in intelligent clinical decision support systems in healthcare
+[html][html] multitask learning and benchmarking with clinical time series data
+ppdp: an efficient and privacy-preserving disease prediction scheme in cloud-based e-healthcare system
+[html][html] a study of the transferability of influenza case detection systems between two large healthcare systems
+explainable ai and mass surveillance system-based healthcare framework to combat covid-i9 like pandemics
+[html][html] governance of automated image analysis and artificial intelligence analytics in healthcare
+a review of machine learning for healthcare informatics specifically tuberculosis disease diagnostics
+[pdf][pdf] machine learning classification over encrypted data.
+machine learning and blockchain techniques used in healthcare system
+mining patient opinion to evaluate the service quality in healthcare: a deep-learning approach
+icarma: inexpensive cardiac arrhythmia management--an iot healthcare analytics solution
+[pdf][pdf] sphere: a sensor platform for healthcare in a residential environment
+advancing competitive position in healthcare: a hybrid metaheuristic nutrition decision support system
+a survey of machine learning techniques applied to software defined networking (sdn): research issues and challenges
+supar: smartphone as a ubiquitous physical activity recognizer for u-healthcare services
+definitions, methods, and applications in interpretable machine learning
+reporting of artificial intelligence prediction models
+machine learning on big data: opportunities and challenges
+[html][html] development of the arabic voice pathology database and its evaluation by using speech features and machine learning algorithms
+[html][html] heart failure: diagnosis, severity estimation and prediction of adverse events through machine learning techniques
+machine learning with big data: challenges and approaches
+a single rgb camera based gait analysis with a mobile tele-robot for healthcare
+knowledge-based dynamic cluster model for healthcare management using a convolutional neural network
+using big data to promote precision oral health in the context of a learning healthcare system
+sok: security and privacy in machine learning
+[pdf][pdf] predicting elderly patient behaviour in rural healthcare using machine learning
+paradigm of iot big data analytics in the healthcare industry: a review of scientific literature and mapping of research trends
+a proposed serious game architecture to self-management healthcare for older adults

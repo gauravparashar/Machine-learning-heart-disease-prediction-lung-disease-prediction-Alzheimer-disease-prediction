@@ -1,0 +1,1400 @@
+interpretable machine learning in healthcare
+machine learning for healthcare: on the verge of a major shift in healthcare epidemiology
+a study of machine learning in healthcare
+machine learning in healthcare
+[book][b] machine learning in healthcare informatics
+how to develop machine learning models for healthcare
+machine learning in healthcare: a review
+systematic poisoning attacks on and defenses for machine learning in healthcare
+[book][b] machine learning and ai for healthcare
+disease prediction by machine learning over big data from healthcare communities
+secure and robust machine learning for healthcare: a survey
+a guide to deep learning in healthcare
+a machine learning model for improving healthcare services on cloud computing environment
+[book][b] demystifying big data and machine learning for healthcare
+a survey of big data architectures and machine learning algorithms in healthcare
+[html][html] machine learning in healthcare data analysis: a survey
+fairness in machine learning for healthcare
+identifying ethical considerations for machine learning healthcare applications
+guidelines for reinforcement learning in healthcare
+optimized scoring systems: toward trust in machine learning for healthcare and criminal justice
+big data and machine learning based secure healthcare framework
+probabilistic machine learning for healthcare
+[html][html] how can machine-learning methods assist in virtual screening for hyperuricemia? a healthcare machine-learning approach
+[html][html] automated machine learning: review of the state-of-the-art and opportunities for healthcare
+machine learning for improved diagnosis and prognosis in healthcare
+patient safety and quality improvement: ethical principles for a regulatory approach to bias in healthcare machine learning
+[html][html] using machine learning to support healthcare professionals in making preauthorisation decisions
+artificial intelligence in healthcare: past, present and future
+introduction to machine learning in healthcare informatics
+introduction to machine learning in digital healthcare epidemiology
+a call for deep-learning healthcare
+deep learning for healthcare decision making with emrs
+[pdf][pdf] a path for translation of machine learning products into healthcare delivery
+social media based surveillance systems for healthcare using machine learning: a systematic review
+[html][html] artificial intelligence, machine learning and the evolution of healthcare: a bright future or cause for concern?
+artificial intelligence with multi-functional machine learning platform development for better healthcare and precision medicine
+applying internet of things and machine-learning for personalized healthcare: issues and challenges
+survey on machine learning and deep learning algorithms used in internet of things (iot) healthcare
+heart disease identification method using machine learning classification in e-healthcare
+intelligent machine learning approach for effective recognition of diabetes in e-healthcare using clinical data
+machine learning as a tool to design glasses with controlled dissolution for healthcare applications
+security enhancement in healthcare cloud using machine learning
+[pdf][pdf] performance evaluation of supervised machine learning classifiers for predicting healthcare operational decisions
+healthcare pathway discovery and probabilistic machine learning
+[html][html] how artificial intelligence and machine learning can help healthcare systems respond to covid-19
+detecting demeanor for healthcare with machine learning
+radiomics and machine learning in oral healthcare
+interpretability of machine learning‐based prediction models in healthcare
+converging blockchain and machine learning for healthcare
+exploring the applications of machine learning in healthcare
+deep learning for healthcare: review, opportunities and challenges
+machine learning in healthcare: introduction and real-world application considerations
+healthguard: a machine learning-based security framework for smart healthcare systems
+split learning for collaborative deep learning in healthcare
+a 48.6-to-105.2 µw machine learning assisted cardiac sensor soc for mobile healthcare applications
+diabetes disease prediction using machine learning on big data of healthcare
+an interactive machine-learning-based electronic fraud and abuse detection system in healthcare insurance
+using machine learning classifiers to assist healthcare-related decisions: classification of electronic patient records
+[html][html] a comparative analysis of machine learning methods for classification type decision problems in healthcare
+[book][b] machine learning for healthcare technologies
+machine learning for healthcare behavioural or: addressing waiting time perceptions in emergency care
+a new machine learning-based healthcare monitoring model for student's condition diagnosis in internet of things environment
+iot-based healthcare monitoring system for war soldiers using machine learning
+towards machine learning enabled security framework for iot-based healthcare
+prediction of diabetes using machine learning algorithms in healthcare
+diabetes prediction in healthcare systems using machine learning algorithms on hadoop cluster
+improving healthcare operations management with machine learning
+causal inference and counterfactual prediction in machine learning for actionable healthcare
+predicting persistent depressive symptoms in older adults: a machine learning approach to personalised mental healthcare
+[html][html] clinician checklist for assessing suitability of machine learning applications in healthcare
+sehaa: a big data analytics tool for healthcare symptoms and diseases detection using twitter, apache spark, and machine learning
+internet of things and machine learning convergence: the e-healthcare revolution
+on the ethics of algorithmic decision-making in healthcare
+interpretability in healthcare: a comparative study of local machine learning interpretability techniques
+the role of medical image computing and machine learning in healthcare
+bridging the implementation gap of machine learning in healthcare
+[html][html] generating high-fidelity synthetic patient data for assessing machine learning healthcare software
+[pdf][pdf] a comprehensive study of healthcare fraud detection based on machine learning
+human activity recognition using machine learning methods in a smart healthcare environment
+beyond volume: the impact of complex healthcare data on the machine learning pipeline
+the advent of ai and deep learning in diagnostics and imaging: machine learning systems have potential to improve diagnostics in healthcare and imaging systems in …
+keeping the patient at the center of machine learning in healthcare
+towards a decision support tool for intensive care discharge: machine learning algorithm development using electronic healthcare data from mimic-iii and bristol, uk
+towards collaborative machine learning driven healthcare internet of things
+iot sensor data integration in healthcare using semantics and machine learning approaches
+deep learning for healthcare applications based on physiological signals: a review
+reinforcement learning in healthcare: a survey
+effect of incremental feature enrichment on healthcare text classification system: a machine learning paradigm
+[pdf][pdf] comparison of statistical and machine learning models for healthcare cost data: a simulation study motivated by oncology care model (ocm) data
+[html][html] benchmarking deep learning models on large healthcare datasets
+using machine learning to predict mental healthcare consumption in non-affective psychosis
+apply machine learning for healthcare to enhance performance and identify informative features
+machine learning for healthcare: introduction
+personalised healthcare model for monitoring and prediction of airpollution: machine learning approach
+[html][html] federated learning for healthcare informatics
+toward healthcare diagnoses by machine-learning-enabled volatile organic compound identification
+healthcare-associated ventriculitis and meningitis in a neuro-icu: incidence and risk factors selected by machine learning approach
+evaluating frequent-set mining approaches in machine-learning problems with several attributes: a case study in healthcare
+[pdf][pdf] machine learning-a neoteric medicine to healthcare
+deep learning in healthcare
+… requirements for cardiovascular imaging-related machine learning evaluation (prime): a checklist: reviewed by the american college of cardiology healthcare …
+application of machine learning techniques in healthcare
+cyber-healthcare for public healthcare in the developing world
+collaborative extreme learning machine with a confidence interval for p2p learning in healthcare
+[html][html] application of machine learning models in predicting length of stay among healthcare workers in underserved communities in south africa
+[html][html] a qualitative research framework for the design of user-centered displays of explanations for machine learning model predictions in healthcare
+[pdf][pdf] machine learning classification algorithms for predictive analysis in healthcare
+[citation][c] machine learning for healthcare and pharma
+adversarial attacks to machine learning-based smart healthcare systems
+deep learning versus conventional machine learning for detection of healthcare-associated infections in french clinical narratives
+fedhealth: a federated transfer learning framework for wearable healthcare
+[pdf][pdf] a pilot study of breast cancer patients: can machine learning predict healthcare professionals' responses to patient emotions
+[html][html] involvement of machine learning tools in healthcare decision making
+[html][html] computer vision in healthcare applications
+prospects of machine and deep learning in analysis of vital signs for the improvement of healthcare services
+sensor-based human activity recognition for smart healthcare: a semi-supervised machine learning
+a review on big data analytics in healthcare using machine learning approaches
+interpretable machine learning in healthcare through generalized additive model with pairwise interactions (ga2m): predicting severe retinopathy of prematurity
+gaussian distribution-based machine learning scheme for anomaly detection in healthcare sensor cloud
+benchmark of deep learning models on large healthcare mimic datasets
+intelligible models for healthcare: predicting pneumonia risk and hospital 30-day readmission
+applying machine learning for healthcare: a case study on cervical pain assessment with motion capture
+governing the safety of artificial intelligence in healthcare
+what counts as “clinical data” in machine learning healthcare applications?
+[html][html] using machine learning applied to real-world healthcare data for predictive analytics: an applied example in bariatric surgery
+machine learning in healthcare communication
+[html][html] greg, ml–machine learning for healthcare at a scale
+planning for the known unknown: machine learning for human healthcare systems
+[html][html] sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data
+a systematic literature review of data science, data analytics and machine learning applied to healthcare engineering systems
+health record tracking enhancement based on multimedia and machine learning for mobile healthcare: trends and challenges
+[html][html] ensuring machine learning for healthcare works for all
+evaluation of machine learning methodology for the prediction of healthcare resource utilization and healthcare costs in patients with critical limb ischemia—is …
+machine learning algorithms for the creation of clinical healthcare enterprise systems
+[book][b] machine learning applications using python: cases studies from healthcare, retail, and finance
+… between patients and healthcare professionals in primary care in catalonia: the evaluation of text classification algorithms using supervised machine learning
+ensemble of multi-headed machine learning architectures for time-series forecasting of healthcare expenditures
+[html][html] using artificial intelligence to analyse and teach communication in healthcare
+iot based heart disease prediction and diagnosis model for healthcare using machine learning models
+respect and trustworthiness in the patient-provider-machine relationship: applying a relational lens to machine learning healthcare applications
+classification of lung cancer stages with machine learning over big data healthcare framework
+machine learning-based fall detection in geriatric healthcare systems
+data mining in healthcare–a review
+exploring healthcare/health-product ecommerce satisfaction: a text mining and machine learning application
+comparison of machine learning algorithms to predict psychological wellness indices for ubiquitous healthcare system design
+evaluating progress on machine learning for longitudinal electronic healthcare data
+the role of deep learning in improving healthcare
+[pdf][pdf] disease prediction by machine learning from healthcare communities
+artificial intelligence in healthcare
+machine learning using synthetic and real data: similarity of evaluation metrics for different healthcare datasets and for different algorithms
+a healthcare monitoring system using random forest and internet of things (iot)
+an introduction and review on machine learning applications in medicine and healthcare
+[html][html] machine learning: the future of healthcare
+effective epileptic seizure detection based on the event-driven processing and machine learning for mobile healthcare
+a machine learning based framework for the smart healthcare monitoring
+[book][b] prognosis research in healthcare: concepts, methods, and impact
+automated machine learning for healthcare and clinical notes analysis
+lung cancer detection using image processing and machine learning healthcare
+testing the generalizability of an automated method for explaining machine learning predictions on asthma patients' asthma hospital visits to an academic healthcare …
+[pdf][pdf] applying deep learning on electronic health records in swedish to predict healthcare-associated infections
+embedded ethics could help implement the pipeline model framework for machine learning healthcare applications
+analysis of healthcare coverage: a data mining approach
+machine learning in healthcare: fairness, issues, and challenges
+a review of machine learning for healthcare informatics specifically tuberculosis disease diagnostics
+machine learning-based techniques for fall detection in geriatric healthcare systems
+[html][html] google deepmind and healthcare in an age of algorithms
+[html][html] developing a delivery science for artificial intelligence in healthcare
+rule learning in healthcare and health services research
+[html][html] the agile deployment of machine learning models in healthcare
+hidden risks of machine learning applied to healthcare: unintended feedback loops between models and future data causing model degradation
+machine learning theory and applications for healthcare
+[html][html] the potential for artificial intelligence in healthcare
+[pdf][pdf] diversity-promoting and large-scale machine learning for healthcare
+machine learning in healthcare--a system's perspective
+[html][html] identifying and understanding determinants of high healthcare costs for breast cancer: a quantile regression machine learning approach
+a smart healthcare monitoring system for heart disease prediction based on ensemble deep learning and feature fusion
+[pdf][pdf] a comparative survey of machine learning and meta-heuristic optimization algorithms for sustainable and smart healthcare
+synsys: a synthetic data generation system for healthcare applications
+modelchain: decentralized privacy-preserving healthcare predictive modeling framework on private blockchain networks
+development and implementation of a machine-learning algorithm for early identification of sepsis in a multi-hospital academic healthcare system
+blockchain-based remote patient monitoring in healthcare 4.0
+data work in healthcare: an introduction
+a framework for healthcare support in the rural and low income areas of the developing world
+classification of healthcare data using genetic fuzzy logic system and wavelets
+ecg signal preprocessing and svm classifier-based abnormality detection in remote healthcare applications
+[html][html] putting the data before the algorithm in big data addressing personalized healthcare
+healthcare big data voice pathology assessment framework
+empowering healthcare iot systems with hierarchical edge-based deep learning
+towards quantification of bias in machine learning for healthcare: a case study of renal failure prediction
+[book][b] data science for healthcare: methodologies and applications
+trend of utilization of machine learning technology for digital healthcare data analysis
+effective multiple cancer disease diagnosis frameworks for improved healthcare using machine learning
+a case study of healthcare platform using big data analytics and machine learning
+big data analytics in healthcare: a survey approach
+healthcare analytics by engaging machine learning
+privacy-preserving collaborative model learning scheme for e-healthcare
+[html][html] a comprehensive survey on machine learning-based big data analytics for iot-enabled smart healthcare system
+[pdf][pdf] smart healthcare
+machine learning based prediction and modeling in healthcare secured internet of things
+an evaluation of the pipeline framework for ethical considerations in machine learning healthcare applications: the case of prediction from functional neuroimaging …
+a comparative study of machine learning techniques used in non-clinical systems for continuous healthcare of independent livings
+an intelligent non-invasive real-time human activity recognition system for next-generation healthcare
+population cost prediction on public healthcare datasets
+[pdf][pdf] using applied machine learning to predict healthcare utilization based on socioeconomic determinants of care
+[html][html] an overview of geoai applications in health and healthcare
+a review of the literature on big data analytics in healthcare
+coaid: covid-19 healthcare misinformation dataset
+[book][b] big data analytics for intelligent healthcare management
+deepening the normative evaluation of machine learning healthcare application by complementing ethical considerations with regulatory governance
+[citation][c] opportunities in machine learning for healthcare
+analysing the implementation of machine learning in healthcare
+scalable healthcare assessment for diabetic patients using deep learning on multiple gpus
+multi-disease prediction model using improved svm-radial bias technique in healthcare monitoring system
+application of multilayer perceptron neural networks and support vector machines in classification of healthcare data
+a review on iot healthcare monitoring applications and a vision for transforming sensor data into real-time clinical feedback
+next generation technologies for smart healthcare: challenges, vision, model, trends and future directions
+towards wide learning: experiments in healthcare
+modeling machine learning requirements from three perspectives: a case report from the healthcare domain
+assessment of utilization efficiency using machine learning techniques: a study of heterogeneity in preoperative healthcare utilization among super-utilizers
+overview of machine learning in healthcare
+5g-smart diabetes: toward personalized diabetes diagnosis with healthcare big data clouds
+[html][html] unsupervised machine learning algorithms examine healthcare providers' perceptions and longitudinal performance in a digital neonatal resuscitation …
+stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
+effective heart disease prediction using hybrid machine learning techniques
+use of machine learning techniques in healthcare: a brief review of cardiovascular disease classification
+study and analysis of data mining for healthcare
+[pdf][pdf] detecting healthcare-associated infections in electronic health records: evaluation of machine learning and preprocessing techniques
+clinical research underlies ethical integration of healthcare artificial intelligence
+a 3-tier architecture for network latency reduction in healthcare internet-of-things using fog computing and machine learning
+interpretable representation learning for healthcare via capturing disease progression through time
+big data technology in healthcare: a survey
+applications of deep learning in healthcare and biomedicine
+a federated learning framework for healthcare iot devices
+machine learning healthcare applications (ml-hcas) are no stand-alone systems but part of an ecosystem–a broader ethical and health technology assessment …
+tracking vital signs of a patient using channel state information and machine learning for a smart healthcare system
+self-service data science in healthcare with automated machine learning
+[pdf][pdf] predictive analytics in healthcare system using data mining techniques
+machine learning in cardiovascular medicine: are we there yet?
+a personalized healthcare monitoring system for diabetic patients by utilizing ble-based sensors and real-time data processing
+semantic data types in machine learning from healthcare data
+computing and processing on the edge: smart pathology detection for connected healthcare
+a prototype agent based model and machine learning hybrid system for healthcare decision support
+machine learning in medical applications
+machine learning and simulation/optimization approaches to improve surgical services in healthcare
+[book][b] the impact of machine learning algorithms on benchmarking process in healthcare service delivery
+resource frequency prediction in healthcare: machine learning approach
+[html][html] examining healthcare utilization patterns of elderly middle-aged adults in the united states
+a 48.6-to-105.2 µw machine-learning assisted cardiac sensor soc for mobile healthcare monitoring
+ubiquity of healthcare system
+sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data
+current healthcare, big data, and machine learning
+[pdf][pdf] performance analysis of various data mining classification techniques on healthcare data
+intelligent classification of iot traffic in healthcare using machine learning techniques
+[html][html] the effects of class rarity on the evaluation of supervised healthcare fraud detection models
+[html][html] black-box machine learning: implications for healthcare
+what's in the box?: uncertain accountability of machine learning applications in healthcare
+on-chip epilepsy detection: where machine learning meets patient-specific healthcare
+[html][html] applications of machine learning in healthcare
+… cancer survivability prediction based on performance using classification techniques of support vector machines, c4. 5 and naive bayes algorithms for healthcare …
+consumer health applications, machine learning, and systems neuroscience: the use of artificial intelligence algorithms in clinical medicine and healthcare delivery
+utilization and monetization of healthcare data in developing countries
+deep multilayer and nonlinear kernelized lasso feature learning for healthcare in big data environment
+[book][b] computer vision for assistive healthcare
+unraveling racial disparities in asthma emergency department visits using electronic healthcare records and machine learning
+[html][html] machine learning in medicine: addressing ethical challenges
+speech processing in healthcare: can we integrate?
+prediction of healthcare associated infections in an intensive care unit using machine learning and big data tools
+non-fiducial ppg-based authentication for healthcare application
+[html][html] using machine learning to assess the predictive potential of standardized nursing data for home healthcare case-mix classification
+intelligent iot framework for indoor healthcare monitoring of parkinson's disease patient
+machine learning algorithms in healthcare: a literature survey
+envisioning insight-driven learning based on thick data analytics with focus on healthcare
+[book][b] handbook of large-scale distributed computing in smart healthcare
+measuring use of evidence based psychotherapy for posttraumatic stress disorder in a large national healthcare system
+intrusion detection system for healthcare systems using medical and network data: a comparison study
+voice pathology detection using deep learning on mobile healthcare framework
+[pdf][pdf] predicting swiss healthcare costs using machine learning
+artificial intelligence in healthcare: an essential guide for health leaders
+e-healthcare monitoring system using iot with machine learning approaches
+hrv signal feature estimation and classification for healthcare system based on machine learning
+securing things in the healthcare internet of things
+[pdf][pdf] a machine learning approach for sentiment analysis for italian reviews in healthcare
+robust aggregation for adaptive privacy preserving federated learning in healthcare
+analysis of clustering algorithms in machine learning for healthcare data
+disease diagnosis and treatment using deep learning algorithms for the healthcare system
+[pdf][pdf] intelligent healthbot for transforming healthcare
+privacy-preserving scoring of tree ensembles: a novel framework for ai in healthcare
+reinforcement learning for intelligent healthcare applications: a survey
+automatic voice pathology monitoring using parallel deep models for smart healthcare
+drug prediction in healthcare using big data and machine learning
+a review on deep learning approaches in healthcare systems: taxonomies, challenges, and open issues
+using smart city technology to make healthcare smarter
+assessment of healthcare claims rejection risk using machine learning
+narmax model as a sparse, interpretable and transparent machine learning approach for big medical and healthcare data analysis
+significant applications of machine learning for covid-19 pandemic
+managing lifetime healthcare data on the blockchain
+disha: an implementation of machine learning based bangla healthcare chatbot
+[html][html] conceptualising artificial intelligence as a digital healthcare innovation: an introductory review
+short keynote paper: mainstreaming personalized healthcare–transforming healthcare through new era of artificial intelligence
+a review on the role of machine learning in enabling iot based healthcare applications
+simultaneously aided diagnosis model for outpatient departments via healthcare big data analytics
+[html][html] digital transformation in healthcare–architectures of present and future information technologies
+cyber-healthcare kiosks for healthcare support in developing countries
+corgan: correlation-capturing convolutional generative adversarial networks for generating synthetic healthcare records
+[html][html] the “inconvenient truth” about ai in healthcare
+when your only tool is a hammer: ethical limitations of algorithmic fairness solutions in healthcare machine learning
+[pdf][pdf] use of artificial intelligence in healthcare and medicine
+healthcare iot
+distributed data networks: a blueprint for big data sharing and healthcare analytics
+artificial intelligence-enabled healthcare delivery
+[html][html] machine learning-based forecast of hemorrhagic stroke healthcare service demand considering air pollution
+human activity recognition for healthcare using smartphones
+can robots handle your healthcare?
+[pdf][pdf] machine learning for healthcare technologies-an introduction
+[pdf][pdf] artificial intelligence in healthcare–a review
+[pdf][pdf] application of data mining techniques to healthcare data
+[pdf][pdf] big data deep learning in healthcare for electronic health records
+artificial intelligence and machine learning for healthcare solutions
+[html][html] machine intelligence in healthcare—perspectives on trustworthiness, explainability, usability, and transparency
+what's holding up the big data revolution in healthcare?
+a flexible low-power machine learning accelerator for healthcare applications
+[html][html] will artificial intelligence solve the human resource crisis in healthcare?
+[pdf][pdf] machine learning for health (ml4h) 2020: advancing healthcare for all
+[html][html] a collaborative healthcare framework for shared healthcare plan with ambient intelligence
+sleepguardian: an rf-based healthcare system guarding your sleep from afar
+big data solutions in healthcare: problems and perspectives
+machine learning for healthcare diagnostics
+human-oriented design of secure machine-to-machine communication system for e-healthcare society
+interactive big data management in healthcare using spark
+artificial and internet of healthcare things based alzheimer care during covid 19
+baymax: a smart healthcare system provide services to millennials using machine learning technique
+an ai-based intelligent system for healthcare analysis using ridge-adaline stochastic gradient descent classifier
+taxonomy on healthcare system based on machine learning
+recent deep learning techniques, challenges and its applications for medical healthcare system: a review
+[pdf][pdf] artificial intelligence in healthcare: past, present and future
+[pdf][pdf] healthcare solution based on machine learning applications in iot and edge computing
+a new evidence-based optimal control in healthcare delivery: a better clinical treatment management for septic patients
+factors affecting venture funding of healthcare ai companies.
+healthcare informatics and privacy
+machine learning in healthcare: exceptional technologies require exceptional ethics
+[pdf][pdf] exploring machine learning in healthcare and its impact on the sars-cov-2 outbreak
+artificial intelligence in healthcare
+what clinicians want: contextualizing explainable machine learning for clinical end use
+beyond patient monitoring: conversational agents role in telemedicine & healthcare support for home-living elderly individuals
+[pdf][pdf] hybrid systems modelling aided by machine learning with applications in healthcare
+ihemha: interactive healthcare system design with emotion computing and medical history analysis
+[html][html] combined machine learning and semantic modelling for situation awareness and healthcare decision support
+machine learning in healthcare: an investigation into model stability
+[book][b] machine learning for healthcare: handling and managing data
+machine learning in healthcare
+tapping into underutilized healthcare data in clinical research
+[pdf][pdf] data mining in healthcare for heart diseases
+[html][html] big data in digital healthcare: lessons learnt and recommendations for general practice
+[html][html] predicting healthcare trajectories from medical records: a deep learning approach
+missingness as stability: understanding the structure of missingness in longitudinal ehr data and its impact on reinforcement learning in healthcare
+efficient machine learning based detection of heart disease
+isthmus: secure, scalable, real-time and robust machine learning platform for healthcare
+machine learning for decision making in healthcare
+digital twin for intelligent context-aware iot healthcare systems
+a survey on ambient intelligence in healthcare
+a comparative study of machine learning techniques in healthcare
+deepq: advancing healthcare through artificial intelligence and virtual reality
+effective analytics on healthcare big data using ensemble learning
+a comparison of machine learning methods applicable to healthcare claims fraud detection
+tutorial on human-centered explainability for healthcare
+prospects of machine learning with blockchain in healthcare and agriculture
+supervised learning methods for fraud detection in healthcare insurance
+a review of automatic selection methods for machine learning algorithms and hyper-parameter values
+application of machine learning in healthcare: analysis on mhealth dataset
+hacking hackathons: preparing the next generation for the multidisciplinary world of healthcare technology
+serverless on fhir: deploying machine learning models for healthcare on the cloud
+fairness with minimal harm: a pareto-optimal approach for healthcare
+[pdf][pdf] a survey on data mining approaches for healthcare
+pitfalls to avoid with machine learning in healthcare
+prediction models for healthcare using machine learning: a review
+semi-supervised learning methods for large scale healthcare data analysis
+a decade of internet of things: analysis in the light of healthcare applications
+[pdf][pdf] big data and analytics in healthcare: introduction to the special section
+towards a digital ecosystem for predictive healthcare analytics
+a review of bigdata and machine learning techniques in healthcare
+how 5g wireless (and concomitant technologies) will revolutionize healthcare?
+data analysis and machine learning effort in healthcare: organization, limitations, and development of an approach
+detecting and predicting diabetes using supervised learning: an approach towards better healthcare for women.
+accurate prediction of life style based disorders by smart healthcare using machine learning and prescriptive big data analytics
+data mining in healthcare and biomedicine: a survey of the literature
+clinical applications of machine learning algorithms: beyond the black box
+a novel approach to machine learning application to protection privacy data in healthcare: federated learning
+analytics and machine learning for healthcare data
+[pdf][pdf] diabetes prediction by machine learning over big data from healthcare communities
+a method for machine learning generation of realistic synthetic datasets for validating healthcare applications
+[book][b] data driven approaches for healthcare: machine learning for identifying high utilizers
+do no harm: a roadmap for responsible machine learning for health care
+artificial intelligence based electronic healthcare solution
+heath-prior: an intelligent ensemble architecture to identify risk cases in healthcare
+[pdf][pdf] performance of clustering algorithms in healthcare database
+a study into data analysis and visualisation to increase the cyber-resilience of healthcare infrastructures
+2 implementation and classification of machine learning algorithms in healthcare informatics: approaches, challenges, and future scope
+disease diagnosis in smart healthcare: innovation, technologies and applications
+machine learning in healthcare: breast cancer and diabetes cases
+[pdf][pdf] data mining applications in healthcare
+[pdf][pdf] a design characteristics of smart healthcare system as the iot application
+assessing fairness in classification parity of machine learning models in healthcare
+[html][html] leveraging deep learning for designing healthcare analytics heuristic for diagnostics
+ecg classification and prognostic approach towards personalized healthcare
+can the nhs be a learning healthcare system in the age of digital technology?
+deep learning for predictive analytics in healthcare
+[html][html] best practices for authors of healthcare-related artificial intelligence manuscripts
+automatic classification of apps reviews for requirement engineering: exploring the customers need from healthcare applications
+longitudinal healthcare data management platform of healthcare iot devices for personalized services.
+early detection and prediction of lung cancer using machine learning algorithms applied on a secure healthcare data system architecture
+a machine learning based natural language question and answering system for healthcare data search using complex queries
+1384: machine learning methods in healthcare: an overview
+healthcare 4.0
+[html][html] toward automated consumer question answering: automatically separating consumer questions from professional questions in the healthcare domain
+[pdf][pdf] leveraging machine learning in the analysis of safety data in drug research and healthcare informatics
+appointment scheduling model in healthcare using clustering algorithms
+data mining in healthcare informatics: techniques and applications
+the role of technology and engineering models in transforming healthcare
+healthcare services innovations based on the state of the art technology trend industry 4.0
+[html][html] an efficient deep learning approach to pneumonia classification in healthcare
+interpretable machine learning in healthcare
+machine learning for healthcare: on the verge of a major shift in healthcare epidemiology
+a study of machine learning in healthcare
+machine learning in healthcare
+[book][b] machine learning in healthcare informatics
+how to develop machine learning models for healthcare
+machine learning in healthcare: a review
+systematic poisoning attacks on and defenses for machine learning in healthcare
+[book][b] machine learning and ai for healthcare
+disease prediction by machine learning over big data from healthcare communities
+interpretable machine learning in healthcare
+machine learning for healthcare: on the verge of a major shift in healthcare epidemiology
+a study of machine learning in healthcare
+machine learning in healthcare
+[book][b] machine learning in healthcare informatics
+how to develop machine learning models for healthcare
+machine learning in healthcare: a review
+systematic poisoning attacks on and defenses for machine learning in healthcare
+[book][b] machine learning and ai for healthcare
+disease prediction by machine learning over big data from healthcare communities
+secure and robust machine learning for healthcare: a survey
+a guide to deep learning in healthcare
+a machine learning model for improving healthcare services on cloud computing environment
+[book][b] demystifying big data and machine learning for healthcare
+a survey of big data architectures and machine learning algorithms in healthcare
+[html][html] machine learning in healthcare data analysis: a survey
+fairness in machine learning for healthcare
+identifying ethical considerations for machine learning healthcare applications
+guidelines for reinforcement learning in healthcare
+optimized scoring systems: toward trust in machine learning for healthcare and criminal justice
+big data and machine learning based secure healthcare framework
+probabilistic machine learning for healthcare
+[html][html] how can machine-learning methods assist in virtual screening for hyperuricemia? a healthcare machine-learning approach
+[html][html] automated machine learning: review of the state-of-the-art and opportunities for healthcare
+machine learning for improved diagnosis and prognosis in healthcare
+patient safety and quality improvement: ethical principles for a regulatory approach to bias in healthcare machine learning
+using machine learning to support healthcare professionals in making preauthorisation decisions
+artificial intelligence in healthcare: past, present and future
+introduction to machine learning in healthcare informatics
+introduction to machine learning in digital healthcare epidemiology
+a call for deep-learning healthcare
+deep learning for healthcare decision making with emrs
+[pdf][pdf] a path for translation of machine learning products into healthcare delivery
+social media based surveillance systems for healthcare using machine learning: a systematic review
+[html][html] artificial intelligence, machine learning and the evolution of healthcare: a bright future or cause for concern?
+artificial intelligence with multi-functional machine learning platform development for better healthcare and precision medicine
+applying internet of things and machine-learning for personalized healthcare: issues and challenges
+survey on machine learning and deep learning algorithms used in internet of things (iot) healthcare
+heart disease identification method using machine learning classification in e-healthcare
+intelligent machine learning approach for effective recognition of diabetes in e-healthcare using clinical data
+machine learning as a tool to design glasses with controlled dissolution for healthcare applications
+security enhancement in healthcare cloud using machine learning
+[pdf][pdf] performance evaluation of supervised machine learning classifiers for predicting healthcare operational decisions
+healthcare pathway discovery and probabilistic machine learning
+[html][html] how artificial intelligence and machine learning can help healthcare systems respond to covid-19
+detecting demeanor for healthcare with machine learning
+radiomics and machine learning in oral healthcare
+interpretability of machine learning‐based prediction models in healthcare
+converging blockchain and machine learning for healthcare
+exploring the applications of machine learning in healthcare
+deep learning for healthcare: review, opportunities and challenges
+machine learning in healthcare: introduction and real-world application considerations
+healthguard: a machine learning-based security framework for smart healthcare systems
+split learning for collaborative deep learning in healthcare
+a 48.6-to-105.2 µw machine learning assisted cardiac sensor soc for mobile healthcare applications
+diabetes disease prediction using machine learning on big data of healthcare
+an interactive machine-learning-based electronic fraud and abuse detection system in healthcare insurance
+using machine learning classifiers to assist healthcare-related decisions: classification of electronic patient records
+[html][html] a comparative analysis of machine learning methods for classification type decision problems in healthcare
+[book][b] machine learning for healthcare technologies
+machine learning for healthcare behavioural or: addressing waiting time perceptions in emergency care
+a new machine learning-based healthcare monitoring model for student's condition diagnosis in internet of things environment
+iot-based healthcare monitoring system for war soldiers using machine learning
+towards machine learning enabled security framework for iot-based healthcare
+prediction of diabetes using machine learning algorithms in healthcare
+diabetes prediction in healthcare systems using machine learning algorithms on hadoop cluster
+improving healthcare operations management with machine learning
+causal inference and counterfactual prediction in machine learning for actionable healthcare
+predicting persistent depressive symptoms in older adults: a machine learning approach to personalised mental healthcare
+[html][html] clinician checklist for assessing suitability of machine learning applications in healthcare
+sehaa: a big data analytics tool for healthcare symptoms and diseases detection using twitter, apache spark, and machine learning
+internet of things and machine learning convergence: the e-healthcare revolution
+on the ethics of algorithmic decision-making in healthcare
+interpretability in healthcare: a comparative study of local machine learning interpretability techniques
+the role of medical image computing and machine learning in healthcare
+bridging the implementation gap of machine learning in healthcare
+[html][html] generating high-fidelity synthetic patient data for assessing machine learning healthcare software
+[pdf][pdf] a comprehensive study of healthcare fraud detection based on machine learning
+human activity recognition using machine learning methods in a smart healthcare environment
+beyond volume: the impact of complex healthcare data on the machine learning pipeline
+the advent of ai and deep learning in diagnostics and imaging: machine learning systems have potential to improve diagnostics in healthcare and imaging systems in …
+keeping the patient at the center of machine learning in healthcare
+towards a decision support tool for intensive care discharge: machine learning algorithm development using electronic healthcare data from mimic-iii and bristol, uk
+towards collaborative machine learning driven healthcare internet of things
+iot sensor data integration in healthcare using semantics and machine learning approaches
+deep learning for healthcare applications based on physiological signals: a review
+reinforcement learning in healthcare: a survey
+effect of incremental feature enrichment on healthcare text classification system: a machine learning paradigm
+[pdf][pdf] comparison of statistical and machine learning models for healthcare cost data: a simulation study motivated by oncology care model (ocm) data
+[html][html] benchmarking deep learning models on large healthcare datasets
+using machine learning to predict mental healthcare consumption in non-affective psychosis
+apply machine learning for healthcare to enhance performance and identify informative features
+machine learning for healthcare: introduction
+personalised healthcare model for monitoring and prediction of airpollution: machine learning approach
+[html][html] federated learning for healthcare informatics
+toward healthcare diagnoses by machine-learning-enabled volatile organic compound identification
+healthcare-associated ventriculitis and meningitis in a neuro-icu: incidence and risk factors selected by machine learning approach
+evaluating frequent-set mining approaches in machine-learning problems with several attributes: a case study in healthcare
+[pdf][pdf] machine learning-a neoteric medicine to healthcare
+deep learning in healthcare
+… requirements for cardiovascular imaging-related machine learning evaluation (prime): a checklist: reviewed by the american college of cardiology healthcare …
+application of machine learning techniques in healthcare
+cyber-healthcare for public healthcare in the developing world
+collaborative extreme learning machine with a confidence interval for p2p learning in healthcare
+[html][html] application of machine learning models in predicting length of stay among healthcare workers in underserved communities in south africa
+[html][html] a qualitative research framework for the design of user-centered displays of explanations for machine learning model predictions in healthcare
+[pdf][pdf] machine learning classification algorithms for predictive analysis in healthcare
+[citation][c] machine learning for healthcare and pharma
+adversarial attacks to machine learning-based smart healthcare systems
+deep learning versus conventional machine learning for detection of healthcare-associated infections in french clinical narratives
+fedhealth: a federated transfer learning framework for wearable healthcare
+[pdf][pdf] a pilot study of breast cancer patients: can machine learning predict healthcare professionals' responses to patient emotions
+[html][html] involvement of machine learning tools in healthcare decision making
+[html][html] computer vision in healthcare applications
+prospects of machine and deep learning in analysis of vital signs for the improvement of healthcare services
+sensor-based human activity recognition for smart healthcare: a semi-supervised machine learning
+a review on big data analytics in healthcare using machine learning approaches
+interpretable machine learning in healthcare through generalized additive model with pairwise interactions (ga2m): predicting severe retinopathy of prematurity
+gaussian distribution-based machine learning scheme for anomaly detection in healthcare sensor cloud
+benchmark of deep learning models on large healthcare mimic datasets
+intelligible models for healthcare: predicting pneumonia risk and hospital 30-day readmission
+applying machine learning for healthcare: a case study on cervical pain assessment with motion capture
+governing the safety of artificial intelligence in healthcare
+what counts as “clinical data” in machine learning healthcare applications?
+[html][html] using machine learning applied to real-world healthcare data for predictive analytics: an applied example in bariatric surgery
+machine learning in healthcare communication
+[html][html] greg, ml–machine learning for healthcare at a scale
+planning for the known unknown: machine learning for human healthcare systems
+[html][html] sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data
+a systematic literature review of data science, data analytics and machine learning applied to healthcare engineering systems
+health record tracking enhancement based on multimedia and machine learning for mobile healthcare: trends and challenges
+[html][html] ensuring machine learning for healthcare works for all
+evaluation of machine learning methodology for the prediction of healthcare resource utilization and healthcare costs in patients with critical limb ischemia—is …
+machine learning algorithms for the creation of clinical healthcare enterprise systems
+[book][b] machine learning applications using python: cases studies from healthcare, retail, and finance
+… between patients and healthcare professionals in primary care in catalonia: the evaluation of text classification algorithms using supervised machine learning
+ensemble of multi-headed machine learning architectures for time-series forecasting of healthcare expenditures
+[html][html] using artificial intelligence to analyse and teach communication in healthcare
+iot based heart disease prediction and diagnosis model for healthcare using machine learning models
+respect and trustworthiness in the patient-provider-machine relationship: applying a relational lens to machine learning healthcare applications
+classification of lung cancer stages with machine learning over big data healthcare framework
+machine learning-based fall detection in geriatric healthcare systems
+data mining in healthcare–a review
+exploring healthcare/health-product ecommerce satisfaction: a text mining and machine learning application
+comparison of machine learning algorithms to predict psychological wellness indices for ubiquitous healthcare system design
+evaluating progress on machine learning for longitudinal electronic healthcare data
+the role of deep learning in improving healthcare
+[pdf][pdf] disease prediction by machine learning from healthcare communities
+artificial intelligence in healthcare
+machine learning using synthetic and real data: similarity of evaluation metrics for different healthcare datasets and for different algorithms
+a healthcare monitoring system using random forest and internet of things (iot)
+an introduction and review on machine learning applications in medicine and healthcare
+[html][html] machine learning: the future of healthcare
+effective epileptic seizure detection based on the event-driven processing and machine learning for mobile healthcare
+a machine learning based framework for the smart healthcare monitoring
+[book][b] prognosis research in healthcare: concepts, methods, and impact
+automated machine learning for healthcare and clinical notes analysis
+lung cancer detection using image processing and machine learning healthcare
+testing the generalizability of an automated method for explaining machine learning predictions on asthma patients' asthma hospital visits to an academic healthcare …
+[pdf][pdf] applying deep learning on electronic health records in swedish to predict healthcare-associated infections
+embedded ethics could help implement the pipeline model framework for machine learning healthcare applications
+analysis of healthcare coverage: a data mining approach
+machine learning in healthcare: fairness, issues, and challenges
+a review of machine learning for healthcare informatics specifically tuberculosis disease diagnostics
+machine learning-based techniques for fall detection in geriatric healthcare systems
+[html][html] google deepmind and healthcare in an age of algorithms
+[html][html] developing a delivery science for artificial intelligence in healthcare
+rule learning in healthcare and health services research
+[html][html] the agile deployment of machine learning models in healthcare
+hidden risks of machine learning applied to healthcare: unintended feedback loops between models and future data causing model degradation
+machine learning theory and applications for healthcare
+[html][html] the potential for artificial intelligence in healthcare
+[pdf][pdf] diversity-promoting and large-scale machine learning for healthcare
+machine learning in healthcare--a system's perspective
+[html][html] identifying and understanding determinants of high healthcare costs for breast cancer: a quantile regression machine learning approach
+a smart healthcare monitoring system for heart disease prediction based on ensemble deep learning and feature fusion
+[pdf][pdf] a comparative survey of machine learning and meta-heuristic optimization algorithms for sustainable and smart healthcare
+synsys: a synthetic data generation system for healthcare applications
+modelchain: decentralized privacy-preserving healthcare predictive modeling framework on private blockchain networks
+development and implementation of a machine-learning algorithm for early identification of sepsis in a multi-hospital academic healthcare system
+blockchain-based remote patient monitoring in healthcare 4.0
+data work in healthcare: an introduction
+a framework for healthcare support in the rural and low income areas of the developing world
+classification of healthcare data using genetic fuzzy logic system and wavelets
+ecg signal preprocessing and svm classifier-based abnormality detection in remote healthcare applications
+[html][html] putting the data before the algorithm in big data addressing personalized healthcare
+healthcare big data voice pathology assessment framework
+empowering healthcare iot systems with hierarchical edge-based deep learning
+towards quantification of bias in machine learning for healthcare: a case study of renal failure prediction
+[book][b] data science for healthcare: methodologies and applications
+trend of utilization of machine learning technology for digital healthcare data analysis
+effective multiple cancer disease diagnosis frameworks for improved healthcare using machine learning
+a case study of healthcare platform using big data analytics and machine learning
+big data analytics in healthcare: a survey approach
+healthcare analytics by engaging machine learning
+privacy-preserving collaborative model learning scheme for e-healthcare
+[html][html] a comprehensive survey on machine learning-based big data analytics for iot-enabled smart healthcare system
+[pdf][pdf] smart healthcare
+machine learning based prediction and modeling in healthcare secured internet of things
+an evaluation of the pipeline framework for ethical considerations in machine learning healthcare applications: the case of prediction from functional neuroimaging …
+a comparative study of machine learning techniques used in non-clinical systems for continuous healthcare of independent livings
+an intelligent non-invasive real-time human activity recognition system for next-generation healthcare
+population cost prediction on public healthcare datasets
+[pdf][pdf] using applied machine learning to predict healthcare utilization based on socioeconomic determinants of care
+[html][html] an overview of geoai applications in health and healthcare
+a review of the literature on big data analytics in healthcare
+coaid: covid-19 healthcare misinformation dataset
+[book][b] big data analytics for intelligent healthcare management
+deepening the normative evaluation of machine learning healthcare application by complementing ethical considerations with regulatory governance
+[citation][c] opportunities in machine learning for healthcare
+analysing the implementation of machine learning in healthcare
+scalable healthcare assessment for diabetic patients using deep learning on multiple gpus
+multi-disease prediction model using improved svm-radial bias technique in healthcare monitoring system
+application of multilayer perceptron neural networks and support vector machines in classification of healthcare data
+a review on iot healthcare monitoring applications and a vision for transforming sensor data into real-time clinical feedback
+next generation technologies for smart healthcare: challenges, vision, model, trends and future directions
+towards wide learning: experiments in healthcare
+modeling machine learning requirements from three perspectives: a case report from the healthcare domain
+assessment of utilization efficiency using machine learning techniques: a study of heterogeneity in preoperative healthcare utilization among super-utilizers
+overview of machine learning in healthcare
+5g-smart diabetes: toward personalized diabetes diagnosis with healthcare big data clouds
+[html][html] unsupervised machine learning algorithms examine healthcare providers' perceptions and longitudinal performance in a digital neonatal resuscitation …
+stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
+effective heart disease prediction using hybrid machine learning techniques
+use of machine learning techniques in healthcare: a brief review of cardiovascular disease classification
+study and analysis of data mining for healthcare
+[pdf][pdf] detecting healthcare-associated infections in electronic health records: evaluation of machine learning and preprocessing techniques
+clinical research underlies ethical integration of healthcare artificial intelligence
+a 3-tier architecture for network latency reduction in healthcare internet-of-things using fog computing and machine learning
+interpretable representation learning for healthcare via capturing disease progression through time
+big data technology in healthcare: a survey
+applications of deep learning in healthcare and biomedicine
+a federated learning framework for healthcare iot devices
+machine learning healthcare applications (ml-hcas) are no stand-alone systems but part of an ecosystem–a broader ethical and health technology assessment …
+tracking vital signs of a patient using channel state information and machine learning for a smart healthcare system
+self-service data science in healthcare with automated machine learning
+[pdf][pdf] predictive analytics in healthcare system using data mining techniques
+machine learning in cardiovascular medicine: are we there yet?
+a personalized healthcare monitoring system for diabetic patients by utilizing ble-based sensors and real-time data processing
+semantic data types in machine learning from healthcare data
+computing and processing on the edge: smart pathology detection for connected healthcare
+a prototype agent based model and machine learning hybrid system for healthcare decision support
+machine learning in medical applications
+machine learning and simulation/optimization approaches to improve surgical services in healthcare
+[book][b] the impact of machine learning algorithms on benchmarking process in healthcare service delivery
+resource frequency prediction in healthcare: machine learning approach
+[html][html] examining healthcare utilization patterns of elderly middle-aged adults in the united states
+a 48.6-to-105.2 µw machine-learning assisted cardiac sensor soc for mobile healthcare monitoring
+ubiquity of healthcare system
+sleep stage classification using extreme learning machine and particle swarm optimization for healthcare big data
+current healthcare, big data, and machine learning
+[pdf][pdf] performance analysis of various data mining classification techniques on healthcare data
+intelligent classification of iot traffic in healthcare using machine learning techniques
+[html][html] the effects of class rarity on the evaluation of supervised healthcare fraud detection models
+[html][html] black-box machine learning: implications for healthcare
+what's in the box?: uncertain accountability of machine learning applications in healthcare
+on-chip epilepsy detection: where machine learning meets patient-specific healthcare
+[html][html] applications of machine learning in healthcare
+… cancer survivability prediction based on performance using classification techniques of support vector machines, c4. 5 and naive bayes algorithms for healthcare …
+consumer health applications, machine learning, and systems neuroscience: the use of artificial intelligence algorithms in clinical medicine and healthcare delivery
+utilization and monetization of healthcare data in developing countries
+deep multilayer and nonlinear kernelized lasso feature learning for healthcare in big data environment
+[book][b] computer vision for assistive healthcare
+unraveling racial disparities in asthma emergency department visits using electronic healthcare records and machine learning
+[html][html] machine learning in medicine: addressing ethical challenges
+speech processing in healthcare: can we integrate?
+prediction of healthcare associated infections in an intensive care unit using machine learning and big data tools
+non-fiducial ppg-based authentication for healthcare application
+[html][html] using machine learning to assess the predictive potential of standardized nursing data for home healthcare case-mix classification
+intelligent iot framework for indoor healthcare monitoring of parkinson's disease patient
+machine learning algorithms in healthcare: a literature survey
+envisioning insight-driven learning based on thick data analytics with focus on healthcare
+[book][b] handbook of large-scale distributed computing in smart healthcare
+measuring use of evidence based psychotherapy for posttraumatic stress disorder in a large national healthcare system
+intrusion detection system for healthcare systems using medical and network data: a comparison study
+voice pathology detection using deep learning on mobile healthcare framework
+[pdf][pdf] predicting swiss healthcare costs using machine learning
+artificial intelligence in healthcare: an essential guide for health leaders
+e-healthcare monitoring system using iot with machine learning approaches
+hrv signal feature estimation and classification for healthcare system based on machine learning
+securing things in the healthcare internet of things
+[pdf][pdf] a machine learning approach for sentiment analysis for italian reviews in healthcare
+robust aggregation for adaptive privacy preserving federated learning in healthcare
+analysis of clustering algorithms in machine learning for healthcare data
+disease diagnosis and treatment using deep learning algorithms for the healthcare system
+[pdf][pdf] intelligent healthbot for transforming healthcare
+privacy-preserving scoring of tree ensembles: a novel framework for ai in healthcare
+reinforcement learning for intelligent healthcare applications: a survey
+automatic voice pathology monitoring using parallel deep models for smart healthcare
+drug prediction in healthcare using big data and machine learning
+a review on deep learning approaches in healthcare systems: taxonomies, challenges, and open issues
+using smart city technology to make healthcare smarter
+assessment of healthcare claims rejection risk using machine learning
+narmax model as a sparse, interpretable and transparent machine learning approach for big medical and healthcare data analysis
+significant applications of machine learning for covid-19 pandemic
+managing lifetime healthcare data on the blockchain
+disha: an implementation of machine learning based bangla healthcare chatbot
+[html][html] conceptualising artificial intelligence as a digital healthcare innovation: an introductory review
+short keynote paper: mainstreaming personalized healthcare–transforming healthcare through new era of artificial intelligence
+a review on the role of machine learning in enabling iot based healthcare applications
+simultaneously aided diagnosis model for outpatient departments via healthcare big data analytics
+[html][html] digital transformation in healthcare–architectures of present and future information technologies
+cyber-healthcare kiosks for healthcare support in developing countries
+corgan: correlation-capturing convolutional generative adversarial networks for generating synthetic healthcare records
+[html][html] the “inconvenient truth” about ai in healthcare
+when your only tool is a hammer: ethical limitations of algorithmic fairness solutions in healthcare machine learning
+[pdf][pdf] use of artificial intelligence in healthcare and medicine
+healthcare iot
+distributed data networks: a blueprint for big data sharing and healthcare analytics
+artificial intelligence-enabled healthcare delivery
+[html][html] machine learning-based forecast of hemorrhagic stroke healthcare service demand considering air pollution
+human activity recognition for healthcare using smartphones
+can robots handle your healthcare?
+[pdf][pdf] machine learning for healthcare technologies-an introduction
+[pdf][pdf] artificial intelligence in healthcare–a review
+[pdf][pdf] application of data mining techniques to healthcare data
+[pdf][pdf] big data deep learning in healthcare for electronic health records
+artificial intelligence and machine learning for healthcare solutions
+[html][html] machine intelligence in healthcare—perspectives on trustworthiness, explainability, usability, and transparency
+what's holding up the big data revolution in healthcare?
+a flexible low-power machine learning accelerator for healthcare applications
+[html][html] will artificial intelligence solve the human resource crisis in healthcare?
+[pdf][pdf] machine learning for health (ml4h) 2020: advancing healthcare for all
+[html][html] a collaborative healthcare framework for shared healthcare plan with ambient intelligence
+sleepguardian: an rf-based healthcare system guarding your sleep from afar
+big data solutions in healthcare: problems and perspectives
+machine learning for healthcare diagnostics
+human-oriented design of secure machine-to-machine communication system for e-healthcare society
+interactive big data management in healthcare using spark
+artificial and internet of healthcare things based alzheimer care during covid 19
+baymax: a smart healthcare system provide services to millennials using machine learning technique
+an ai-based intelligent system for healthcare analysis using ridge-adaline stochastic gradient descent classifier
+taxonomy on healthcare system based on machine learning
+recent deep learning techniques, challenges and its applications for medical healthcare system: a review
+[pdf][pdf] artificial intelligence in healthcare: past, present and future
+[pdf][pdf] healthcare solution based on machine learning applications in iot and edge computing
+a new evidence-based optimal control in healthcare delivery: a better clinical treatment management for septic patients
+factors affecting venture funding of healthcare ai companies.
+healthcare informatics and privacy
+machine learning in healthcare: exceptional technologies require exceptional ethics
+[pdf][pdf] exploring machine learning in healthcare and its impact on the sars-cov-2 outbreak
+artificial intelligence in healthcare
+what clinicians want: contextualizing explainable machine learning for clinical end use
+beyond patient monitoring: conversational agents role in telemedicine & healthcare support for home-living elderly individuals
+[pdf][pdf] hybrid systems modelling aided by machine learning with applications in healthcare
+ihemha: interactive healthcare system design with emotion computing and medical history analysis
+[html][html] combined machine learning and semantic modelling for situation awareness and healthcare decision support
+machine learning in healthcare: an investigation into model stability
+[book][b] machine learning for healthcare: handling and managing data
+machine learning in healthcare
+tapping into underutilized healthcare data in clinical research
+[pdf][pdf] data mining in healthcare for heart diseases
+[html][html] big data in digital healthcare: lessons learnt and recommendations for general practice
+[html][html] predicting healthcare trajectories from medical records: a deep learning approach
+missingness as stability: understanding the structure of missingness in longitudinal ehr data and its impact on reinforcement learning in healthcare
+efficient machine learning based detection of heart disease
+isthmus: secure, scalable, real-time and robust machine learning platform for healthcare
+machine learning for decision making in healthcare
+digital twin for intelligent context-aware iot healthcare systems
+a survey on ambient intelligence in healthcare
+a comparative study of machine learning techniques in healthcare
+deepq: advancing healthcare through artificial intelligence and virtual reality
+effective analytics on healthcare big data using ensemble learning
+a comparison of machine learning methods applicable to healthcare claims fraud detection
+tutorial on human-centered explainability for healthcare
+prospects of machine learning with blockchain in healthcare and agriculture
+supervised learning methods for fraud detection in healthcare insurance
+a review of automatic selection methods for machine learning algorithms and hyper-parameter values
+application of machine learning in healthcare: analysis on mhealth dataset
+hacking hackathons: preparing the next generation for the multidisciplinary world of healthcare technology
+serverless on fhir: deploying machine learning models for healthcare on the cloud
+fairness with minimal harm: a pareto-optimal approach for healthcare
+[pdf][pdf] a survey on data mining approaches for healthcare
+pitfalls to avoid with machine learning in healthcare
+prediction models for healthcare using machine learning: a review
+semi-supervised learning methods for large scale healthcare data analysis
+a decade of internet of things: analysis in the light of healthcare applications
+[pdf][pdf] big data and analytics in healthcare: introduction to the special section
+towards a digital ecosystem for predictive healthcare analytics
+a review of bigdata and machine learning techniques in healthcare
+how 5g wireless (and concomitant technologies) will revolutionize healthcare?
+data analysis and machine learning effort in healthcare: organization, limitations, and development of an approach
+detecting and predicting diabetes using supervised learning: an approach towards better healthcare for women.
+accurate prediction of life style based disorders by smart healthcare using machine learning and prescriptive big data analytics
+data mining in healthcare and biomedicine: a survey of the literature
+clinical applications of machine learning algorithms: beyond the black box
+a novel approach to machine learning application to protection privacy data in healthcare: federated learning
+analytics and machine learning for healthcare data
+[pdf][pdf] diabetes prediction by machine learning over big data from healthcare communities
+a method for machine learning generation of realistic synthetic datasets for validating healthcare applications
+[book][b] data driven approaches for healthcare: machine learning for identifying high utilizers
+do no harm: a roadmap for responsible machine learning for health care
+artificial intelligence based electronic healthcare solution
+heath-prior: an intelligent ensemble architecture to identify risk cases in healthcare
+[pdf][pdf] performance of clustering algorithms in healthcare database
+a study into data analysis and visualisation to increase the cyber-resilience of healthcare infrastructures
+2 implementation and classification of machine learning algorithms in healthcare informatics: approaches, challenges, and future scope
+disease diagnosis in smart healthcare: innovation, technologies and applications
+machine learning in healthcare: breast cancer and diabetes cases
+[pdf][pdf] data mining applications in healthcare
+[pdf][pdf] a design characteristics of smart healthcare system as the iot application
+assessing fairness in classification parity of machine learning models in healthcare
+[html][html] leveraging deep learning for designing healthcare analytics heuristic for diagnostics
+ecg classification and prognostic approach towards personalized healthcare
+can the nhs be a learning healthcare system in the age of digital technology?
+deep learning for predictive analytics in healthcare
+[html][html] best practices for authors of healthcare-related artificial intelligence manuscripts
+automatic classification of apps reviews for requirement engineering: exploring the customers need from healthcare applications
+longitudinal healthcare data management platform of healthcare iot devices for personalized services.
+early detection and prediction of lung cancer using machine learning algorithms applied on a secure healthcare data system architecture
+a machine learning based natural language question and answering system for healthcare data search using complex queries
+1384: machine learning methods in healthcare: an overview
+healthcare 4.0
+[html][html] toward automated consumer question answering: automatically separating consumer questions from professional questions in the healthcare domain
+[pdf][pdf] leveraging machine learning in the analysis of safety data in drug research and healthcare informatics
+appointment scheduling model in healthcare using clustering algorithms
+data mining in healthcare informatics: techniques and applications
+the role of technology and engineering models in transforming healthcare
+healthcare services innovations based on the state of the art technology trend industry 4.0
+[html][html] an efficient deep learning approach to pneumonia classification in healthcare
+[html][html] big data handling mechanisms in the healthcare applications: a comprehensive and systematic literature review
+a euclidean group assessment on semi-supervised clustering for healthcare clinical implications based on real-life data
+internet-of-things and big data for smarter healthcare: from device to architecture, applications and analytics
+[pdf][pdf] emotion recognition from multimodal physiological signals for emotion aware healthcare systems
+distilling knowledge from deep networks with applications to healthcare domain
+[pdf][pdf] use of machine learning to predict diagnosis codes for non-alcoholic steatohepatitis in administrative healthcare data
+[book][b] healthcare sensor networks: challenges toward practical implementation
+enhanced machine learning feature selection algorithm for cardiac arrhythmia in a personal healthcare application
+hich: hierarchical fog-assisted computing architecture for healthcare iot
+cor-gan: correlation-capturing convolutional neural networks for generating synthetic healthcare records
+image pattern recognition for an intelligent healthcare system: an application area of machine learning and big data
+edgecnn: a hybrid architecture for agile learning of healthcare data from iot devices
+a novel internet of things framework integrated with real time monitoring for intelligent healthcare environment
+architecting iot based healthcare systems using machine learning algorithms: cloud-oriented healthcare model, streaming data analytics architecture, and case study
+private empirical risk minimization with analytic gaussian mechanism for healthcare system
+[html][html] volume and value of big healthcare data
+[pdf][pdf] emotion recognition system using iot and machine learning-a healthcare application
+machine learning approach to predict risk of 90-day hospital readmissions in patients with atrial fibrillation: implications for quality improvement in healthcare
+[pdf][pdf] empirical study on applications of data mining techniques in healthcare
+[html][html] comparison of models for the prediction of medical costs of spinal fusion in taiwan diagnosis-related groups by machine learning algorithms
+improving healthcare services of community clinics using machine learning techniques
+investigating classification supervised learning approaches for the identification of critical patients' posts in a healthcare social network
+the application of artificial intelligence technology in healthcare: a systematic review
+prediction of harvestable energy for self-powered wearable healthcare devices: filling a gap
+artificial intelligence and machine learning in computational nanotoxicology: unlocking and empowering nanomedicine
+imet: interactive metric learning in healthcare applications
+machine learning techniques for remote healthcare
+innovation on machine learning in healthcare services—an introduction
+iot in healthcare: a big data perspective
+snomed ct-based standardized e-clinical pathways for enabling big data analytics in healthcare
+a survey on the state of healthcare upcoding fraud analysis and detection
+response time determinism in healthcare data analytics using machine learning
+a novel intelligent approach for predicting atherosclerotic individuals from big data for healthcare
+the machine-human collaboration in healthcare innovation
+a survey of big data analytics in healthcare and government
+classifying the indication for colonoscopy procedures: a comparison of nlp approaches in a diverse national healthcare system.
+retain: an interpretable predictive model for healthcare using reverse time attention mechanism
+bindaas: blockchain-based deep-learning as-a-service in healthcare 4.0 applications
+development of smart healthcare system based on speech recognition using support vector machine and dynamic time warping
+[pdf][pdf] role of data mining techniques in healthcare sector in india
+[pdf][pdf] development of an iot-based and cloud-based disease prediction and diagnosis system for healthcare using machine learning algorithms
+a comparative analysis of breast cancer detection and diagnosis using data visualization and machine learning applications
+[citation][c] artificial intelligence and human trust in healthcare: focus on clinicians
+edgelaas: edge learning as a service for knowledge-centric connected healthcare
+[book][b] healthcare analytics made simple: techniques in healthcare computing using machine learning and python
+machine learning with applications in breast cancer diagnosis and prognosis
+edge cognitive computing based smart healthcare system
+[html][html] combining the power of artificial intelligence with the richness of healthcare claims data: opportunities and challenges
+[html][html] ten quick tips for machine learning in computational biology
+monetizing healthcare machine learning
+[pdf][pdf] a unified modeling approach to data-intensive healthcare
+wavelet-based machine learning techniques for ecg signal analysis
+simulations of agile software processes for healthcare information systems development based on machine learning methods
+[html][html] machine learning based prognostic model and mobile application software platform for predicting infection susceptibility of covid-19 using healthcare data
+[html][html] electrical load prediction of healthcare buildings through single and ensemble learning
+data-driven healthcare: from patterns to actions
+[html][html] application of machine learning models to evaluate hypoglycemia risk in type 2 diabetes
+[wip] predictive maintenance in healthcare services with big data technologies
+[pdf][pdf] the mythos of model interpretability: in machine learning, the concept of interpretability is both important and slippery.
+machine-learning algorithms to automate morphological and functional assessments in 2d echocardiography
+challenges and opportunities in iot healthcare systems: a systematic review
+visualizing the knowledge structure and evolution of big data research in healthcare informatics
+human action monitoring for healthcare based on deep learning
+machine learning for healthcare diagnostics
+[pdf][pdf] a collective study of machine learning (ml) algorithms with big data analytics (bda) for healthcare analytics (hca)
+deep-learning-enhanced human activity recognition for internet of healthcare things
+impact of preprocessing methods on healthcare predictions
+b5g and explainable deep learning assisted healthcare vertical at the edge: covid-i9 perspective
+risk prediction with machine learning in cesarean section: optimizing healthcare operational decisions
+[html][html] multilevel weighted support vector machine for classification on healthcare data with missing values
+on delay-sensitive healthcare data analytics at the network edge based on deep learning
+a machine learning approach for tracing regulatory codes to product specific requirements
+machine learning techniques for healthcare applications: early autism detection using ensemble approach and breast cancer prediction using smo and ibk
+[html][html] bayesian networks in healthcare: distribution by medical condition
+a unified smart chinese medicine framework for healthcare and medical services
+adopting cognitive computing solutions in healthcare
+[html][html] transforming healthcare with big data analytics and artificial intelligence: a systematic mapping study
+[html][html] implications of big data analytics in developing healthcare frameworks–a review
+a 5g cognitive system for healthcare
+… pectation p ropagation lo gistic re g r ession on permissioned block chain (explorerchain): decentralized online healthcare/genomics predictive model learning
+adversarial multi-source transfer learning in healthcare: application to glucose prediction for diabetic people
+[html][html] big data in science and healthcare: a review of recent literature and perspectives: contribution of the imia social media working group
+[html][html] ai-assisted decision-making in healthcare
+healthcare analytics: overcoming the barriers to health information using machine learning algorithms
+an associative memory approach to healthcare monitoring and decision making
+artificial intelligence and machine learning in global healthcare
+cognitive computing and wireless communications on the edge for healthcare service robots
+analytics using machine learning-guided simulations with application to healthcare scenarios
+clinical applications of machine learning in cardiovascular disease and its relevance to cardiac imaging
+natural language processing to measure the frequency and mode of communication between healthcare professionals and family members of critically ill patients
+a review on elderly healthcare using machine learning and other related methods
+[pdf][pdf] a survey of big data analytics in healthcare
+modelhealth: an innovative software platform for machine learning in healthcare leveraging indoor localization services
+machine learning techniques in healthcare—a survey
+towards unsupervised detection of process models in healthcare.
+[pdf][pdf] privacy preserving machine learning in healthcare
+iot based mobile healthcare system for human activity recognition
+analysis of data mining techniques for healthcare decision support system using liver disorder dataset
+revisiting the skills of a healthcare data scientist as a field expert.
+[html][html] supervised learning methods for predicting healthcare costs: systematic literature review and empirical evaluation
+big data analytics in healthcare: a review of opportunities and challenges
+[html][html] ai-driven tools for coronavirus outbreak: need of active learning and cross-population train/test models on multitudinal/multimodal data
+a secure healthcare system design framework using blockchain technology
+[pdf][pdf] clustering-aided approach for predicting patient outcomes with application to elderly healthcare in ireland
+[pdf][pdf] docaid: predictive healthcare analytics using naive bayes classification
+big data analytics for healthcare industry: impact, applications, and tools
+performance analysis of feature selection methods for classification of healthcare datasets
+[pdf][pdf] big data management for healthcare systems: architecture, requirements, and implementation
+hybrid machine learning model for healthcare monitoring systems
+deep patient similarity learning for personalized healthcare
+machine learning in healthcare toward early risk prediction: a case study of liver transplantation
+[pdf][pdf] data mining in healthcare: current applications and issues
+[pdf][pdf] a study of data mining techniques accuracy for healthcare
+[book][b] neural networks in healthcare: potential and challenges: potential and challenges
+big-data and cyber-physical systems in healthcare: challenges and opportunities
+bridging e-health and the internet of things: the sphere project
+state-of-the-art methods in healthcare text classification system: ai paradigm.
+healthcare and aviation: perspectives on alerts, machine learning, and future directions
+escaped: efficient secure and private dot product framework for kernel-based machine learning algorithms with applications in healthcare
+[html][html] comparison of machine-learning classification models for glaucoma management
+sentiment analysis in healthcare: a brief review
+iot based machine learning techniques for healthcare applications
+[html][html] glaucoma diagnosis with machine learning based on optical coherence tomography and color fundus images
+an intelligent healthcare monitoring framework using wearable sensors and social networking data
+[pdf][pdf] artificial intelligence integration in healthcare and medicine
+a machine learning platform in healthcare with actor model approach
+a data enhancement approach to improve machine learning performance for predicting health status using remote healthcare data
+[html][html] machine learning for medical imaging
+a future research agenda for digital geriatric mental healthcare
+[pdf][pdf] a review on data mining in healthcare
+emerging information technologies for enhanced healthcare
+stable teamwork marriages in healthcare: applying machine learning to surgeon-nurse-patient matching
+[pdf][pdf] data mining applications in healthcare sector: a study
+ensemble learning based postpartum hemorrhage diagnosis for 5g remote healthcare
+data driven analytics for personalized healthcare
+[pdf][pdf] ethical and moral issues with ai: a case study on healthcare robots
+[pdf][pdf] a survey of different approaches of machine learning in healthcare management system
+an empirical study of representation learning for reinforcement learning in healthcare
+a deep inference learning framework for healthcare
+recent advances on graph analytics and its applications in healthcare
+leveraging digital twin technology in the healthcare industry–a machine learning based approach
+wireless sensor networks for healthcare: a survey
+deep learning in healthcare
+application of statistics and machine learning in healthcare
+big data challenges and opportunities in healthcare informatics and smart hospitals
+[html][html] detras: deep learning-based healthcare framework for iot-based assistance of alzheimer patients
+toward practical privacy-preserving analytics for iot and cloud-based healthcare systems
+a digital platform for remote healthcare monitoring
+machine learning in medicine
+a state of art approaches on deep learning models in healthcare: an application perspective
+[html][html] the times they are a-changin'–healthcare 4.0 is coming!
+application of artificial intelligence in modern healthcare system
+wearables, artificial intelligence, and the future of healthcare
+the role of artificial intelligence in learning and professional development for healthcare professionals
+dynamic knowledge mapping guided by data mining: application on healthcare
+feature robustness in non-stationary health records: caveats to deployable model performance in common clinical machine learning tasks
+[pdf][pdf] techniques of data mining in healthcare: a review
+smart healthcare via efficient machine learning
+fairness in machine learning for healthcare
+trusting artificial intelligence in healthcare
+a comprehensive review on usage of internet of things (iot) in healthcare system
+a machine learning based framework for the smart healthcare system
+[html][html] comparison of time series methods and machine learning algorithms for forecasting taiwan blood services foundation's blood supply
+a systematic review of the availability and efficacy of countermeasures to internal threats in healthcare critical infrastructure
+iot based wearable sensor for diseases prediction and symptom analysis in healthcare sector
+[html][html] big data in healthcare–the promises, challenges and opportunities from a research perspective: a case study with a model database
+methods for safety signal detection in healthcare databases: a literature review
+deep learning for multigrade brain tumor classification in smart healthcare systems: a prospective survey
+the role of metaheuristic algorithms in healthcare
+[pdf][pdf] the potential of learning healthcare systems
+machine learning interpretability: a survey on methods and metrics
+[pdf][pdf] a study on analysis of various data mining classification techniques on healthcare data
+radar sensing for healthcare
+[html][html] healthcare applications of smart watches: a systematic review
+big data classification and internet of things in healthcare
+[html][html] big data in healthcare: management, analysis and future prospects
+internet of things in healthcare
+[html][html] artificial intelligence in healthcare: review and prediction case studies
+a machine learning approach to improving dynamic decision making
+[html][html] smart healthcare
+[pdf][pdf] chatbots meet ehealth: automatizing healthcare.
+machine learning and optimization for healthcare and energy systems
+[html][html] blood pressure estimation using photoplethysmography only: comparison between different machine learning approaches
+sphere: a sensor platform for healthcare in a residential environment
+artificial intelligence in the healthcare of older people
+an advanced conceptual diagnostic healthcare framework for diabetes and cardiovascular disorders
+guest editorialintegrated healthcare information systems
+big data knowledge system in healthcare
+[pdf][pdf] machine learning in healthcare
+letter in response to google deepmind and healthcare in an age of algorithms
+[pdf][pdf] ai, iot and wearable technology for smart healthcare–a review
+[html][html] automated breast cancer diagnosis based on machine learning algorithms
+health-cps: healthcare cyber-physical system assisted by cloud and big data
+cloud and iot based disease prediction and diagnosis system for healthcare using fuzzy neural classifier
+a framework for big data technology in health and healthcare
+axes of a revolution: challenges and promises of big data in healthcare
+a probabilistic programming approach for outlier detection in healthcare claims
+predicting breast cancer survivability using fuzzy decision trees for personalized healthcare
+impact of biomaterials in lung tumor classification and segmentation using machine learning healthcare
+[pdf][pdf] advocating for safe, quality and just care: what nursing leaders need to know about artificial intelligence in healthcare delivery
+a healthcare text classification system and its performance evaluation: a source of better intelligence by characterizing healthcare text
+ethical healthcare agents
+making sense of the shadows: priorities for creating a learning healthcare system based on routinely collected data
+medical image forgery detection for smart healthcare
+federated machine learning: concept and applications
+healthcare 4.0: a review of frontiers in digital health
+explainable machine-learning predictions for the prevention of hypoxaemia during surgery
+[pdf][pdf] will you be in hospital next year: leveraging machine learning in improving healthcare
+a systematic review of techniques and sources of big data in the healthcare sector
+[html][html] smart healthcare: making medical care more intelligent
+[pdf][pdf] artificial intelligence-futuristic pediatric healthcare
+speech technology for healthcare: opportunities, challenges, and state of the art
+a body sensor data fusion and deep recurrent neural network-based behavior recognition approach for robust healthcare
+a systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models
+the healthcare system perspective in mhealth
+healthfog: an ensemble deep learning based smart healthcare system for automatic diagnosis of heart diseases in integrated iot and fog computing environments
+towards a rigorous science of interpretable machine learning
+an iot-cloud based solution for real-time and batch processing of big data: application in healthcare
+artificial intelligence in healthcare and medicine: promises, ethical challenges and governance
+big data and machine learning algorithms for health-care delivery
+machine learning approach of automatic identification and counting of blood cells
+iot healthcare analytics: the importance of anomaly detection
+[html][html] unsupervised anomaly detection of healthcare providers using generative adversarial networks
+[pdf][pdf] machine learning in healthcare: an overview
+[pdf][pdf] taxonomy of data mining and machine learning approaches for healthcare systems
+gram: graph-based attention model for healthcare representation learning
+the pivotal role of edge computing with machine learning and its impact on healthcare
+smart healthcare framework for ambient assisted living using iomt and big data analytics techniques
+effectiveness of social media data in healthcare communication
+learning word embeddings with chi-square weights for healthcare tweet classification
+[book][b] healthcare data analytics
+[html][html] machine learning applications in healthcare
+machine learning infused preventive healthcare for high-risk outpatient elderly
+the progressive review of development of the artificial intelligence enabled wearable devices using machine learning for healthcare
+internet of things for smart healthcare: technologies, challenges, and opportunities
+big data and its utility in social work: learning from the big data revolution in business and healthcare
+healthcare 4.0: a voyage of fog computing with iot, cloud computing, big data, and machine learning
+improving healthcare access management by predicting patient no-show behaviour
+[pdf][pdf] artificial intelligence in healthcare
+learning representations from healthcare time series data for unsupervised anomaly detection
+blockchain platform for industrial healthcare: vision and future opportunities
+a new machine learning classifier for high dimensional healthcare data.
+healthcare analysis in smart big data analytics: reviews, challenges and recommendations
+healthcare ner models using language model pretraining
+[html][html] big data analytics in healthcare
+assessing data traffic classification to priority access for wireless healthcare application
+[pdf][pdf] healthcare predictive analytics for risk profiling in chronic care: a bayesian multitask learning approach.
+the multiplier effect of applied machine learning technology in modern healthcare
+fast and peer-to-peer vital signal learning system for cloud-based healthcare
+cyber resilience in healthcare digital twin on lung cancer
+machine learning techniques to examine large patient databases
+software defined healthcare networks
+prediction of malignant and benign breast cancer: a data mining approach in healthcare applications
+[pdf][pdf] wearable and nearable biosensors and systems for healthcare
+optimization and machine learning methods for medical and healthcare applications
+developing a framework for a healthcare data science hub; challenges and lessons learned.
+[book][b] machine learning: hands-on for developers and technical professionals
+healthcare price finder: a web-based application for estimating healthcare medical cost by modeling medicare data with machine learning
+a qualitative assessment of machine learning support for detecting data completeness and accuracy issues to improve data analytics in big data for the healthcare …
+[html][html] converging blockchain and next-generation artificial intelligence technologies to decentralize and accelerate biomedical research and healthcare
+[pdf][pdf] implementing ai in healthcare
+bridging the vocabulary gap between health seekers and healthcare knowledge
+[html][html] artificial intelligence, machine learning and health systems
+methodological challenges and analytic opportunities for modeling and interpreting big healthcare data
+introduction to the minitrack on big data on healthcare application
+semi-supervised learning quantization algorithm with deep features for motor imagery eeg recognition in smart healthcare application
+agents and healthcare: a glance to the future
+machine learning: an applied econometric approach
+modeling healthcare quality via compact representations of electronic health records
+machine learning for medical imaging
+advanced internet of things for personalised healthcare systems: a survey
+an overview and case study of the clinical ai model development life cycle for healthcare systems
+breakthrough healthcare technologies in the covid-19 era: a unique opportunity for cardiovascular practitioners and patients.
+internet of things for sensing: a case study in the healthcare system
+how to implement machine learning in healthcare
+integrated natural language processing and machine learning models for standardizing radiotherapy structure names
+artificial intelligence, machine learning, deep learning, and cognitive computing: what do these terms mean and how will they impact health care?
+why policymakers should care about “big data” in healthcare
+potential biases in machine learning algorithms using electronic health record data
+healthcare algorithms by wearable inertial sensors: a survey
+performance analysis of machine learning algorithm for healthcare tools with high dimension segmentation
+machine learning in nutritional follow-up research
+calibrating healthcare ai: towards reliable and interpretable deep predictive models
+machine learning and multi-criteria decision analysis in healthcare: a comparison of machine learning algorithms for medical diagnosis
+[html][html] artificial intelligence for personalized preventive adolescent healthcare
+iglu: an intelligent device for accurate noninvasive blood glucose-level monitoring in smart healthcare
+autilife: a healthcare monitoring system for autism center in 5g cellular network using machine learning approach
+cognitive smart healthcare for pathology detection and monitoring
+importance of data mining in healthcare: a survey
+healthcare data heterogeneity and its contribution to machine learning performance
+healthcare and digital transformation
+[pdf][pdf] showcasing the impact of machine learning in healthcare
+[pdf][pdf] effective and secure healthcare machine learning system with explanations based on high quality crowdsourcing data
+efficient approach to detect epileptic seizure using machine learning models for modern healthcare system
+digital healthcare public health
+[html][html] a survey of open source tools for machine learning with big data in the hadoop ecosystem
+online detection of freezing of gait with smartphones and machine learning techniques
+inside me: a proposal for healthcare mobile application
+challenges in designing an online healthcare platform for personalised patient analytics
+applied data science in patient-centric healthcare: adaptive analytic systems for empowering physicians and patients
+detection of myocardial infarction based on novel deep transfer learning methods for urban healthcare in smart cities
+business data mining—a machine learning perspective
+computational methods for predicting chronic disease in healthcare communities
+[html][html] illuminating the dark spaces of healthcare with ambient intelligence
+[html][html] using statistical and machine learning methods to evaluate the prognostic accuracy of sirs and qsofa
+artificial intelligence in healthcare
+big data, big knowledge: big data for personalized healthcare
+kyp modeling architecture for cardiovascular diseases and treatments in healthcare institutions
+hierarchical attention propagation for healthcare representation learning
+data analytics in smart healthcare: the recent developments and beyond
+transformation in healthcare by wearable devices for diagnostics and guidance of treatment
+leveraging machine learning techniques for windows ransomware network traffic detection
+internet of things driven connected healthcare
+virtual patient model: an approach for generating synthetic healthcare time series data
+a national evaluation of antibiotic expenditures by healthcare setting in the united states, 2009
+big data ensemble clinical prediction for healthcare data by using deep learning model
+intelligent healthcare systems assisted by data analytics and mobile computing
+role of soft computing approaches in healthcare domain: a mini review
+[pdf][pdf] toward vo-based collaboration between computational intelligence-machine learning and healthcare communities
+applying machine learning techniques for adme-tox prediction: a review
+concurrence of big data analytics and healthcare: a systematic review
+[html][html] machine learning for healthcare: emerging challenges and opportunities in disease diagnosis
+a smart architecture for diabetic patient monitoring using machine learning algorithms
+healthcare social data platform based on linked data and machine learning
+5g-based smart healthcare network: architecture, taxonomy, challenges and future research directions
+generating synthetic but plausible healthcare record datasets
+[html][html] cpas: the uk's national machine learning-based hospital capacity planning system for covid-19
+a review on the role of nano-communication in future healthcare systems: a big data analytics perspective
+healthcare data mining: prediction inpatient length of stay
+[pdf][pdf] the role of smart personal assistant for improving personal healthcare
+internet of things-enabled smart devices in medical practice: healthcare big data, wearable biometric sensors, and real-time patient monitoring
+from big data to smart data for pharmacovigilance: the role of healthcare databases and other emerging sources
+towards the science of security and privacy in machine learning
+big healthcare data analytics: challenges and applications
+[html][html] machine learning in healthcare and medicine applications
+emerging technologies in healthcare: analysis of unos data through machine learning
+[pdf][pdf] a survey on classification algorithms used in healthcare environment of the internet of things
+intelligent learning analytics in healthcare sector using machine learning
+fog-enabled smart health: toward cooperative and secure healthcare service provision
+enabling cognitive smart cities using big data and machine learning: approaches and challenges
+smart-bot technology: conversational agents role in maternal healthcare support
+smart refrigerator for healthcare using food image classification
+a probabilistic ontology-based platform for self-learning context-aware healthcare applications
+[html][html] data analytics in mental healthcare
+applications of blockchain technology in medicine and healthcare: challenges and future perspectives
+big healthcare data analytics in internet of medical things
+[pdf][pdf] a comparative analysis of machine learning algorithms for healthcare device data of social iot
+lacas: learning automata-based congestion avoidance scheme for healthcare wireless sensor networks
+[book][b] machine learning with r: expert techniques for predictive modeling
+aspects of nano-enabling biosensing systems for intelligent healthcare; towards covid-19 management
+machine learning for activity recognition: hip versus wrist data
+[pdf][pdf] smart healthcare monitoring system using support vector machine
+machine intelligence in healthcare and medical cyber physical systems: a survey
+[html][html] an overview of deep learning in medical imaging focusing on mri
+machine learning methods for classifying human physical activity from on-body accelerometers
+classifying lung cancer severity with ensemble machine learning in health care claims data
+[pdf][pdf] legal liability for machine learning in healthcare
+big data analytics in healthcare using machine learning algorithms: a comparative study
+enabling individualised health in learning healthcare systems
+machine learning in healthcare and medicine applications
+a dynamic and interoperable communication framework for controlling the operations of wearable sensors in smart healthcare applications
+[pdf][pdf] signal processing and feature selection preprocessing for classification in noisy healthcare data
+applications of artificial intelligence and machine learning in healthcare: a cardiovascular case
+… machine learning on covid-19: the use of a decision tree algorithm for the assessment of perceived stress in mexican healthcare …
+[book][b] healthcare data analytics and management
+prediction of surface roughness in extrusion-based additive manufacturing with machine learning
+a framework for predicting impactability of healthcare interventions using machine learning methods, administrative claims, sociodemographic and app generated …
+algorithmic advancements in discrete optimization: applications to machine learning and healthcare operations
+implications of an emerging ehr monoculture for hospitals and healthcare systems
+[html][html] machine learning for internet of things data analysis: a survey
+a novel three-tier internet of things architecture with machine learning algorithm for early detection of heart diseases
+artificial intelligence in healthcare: a review on predicting clinical needs
+[pdf][pdf] sentiment analysis in healthcare: motives, challenges & opportunities pertaining to machine learning
+accurate, energy-efficient, and secure machine learning models: applications to smart healthcare
+[html][html] key challenges for delivering clinical impact with artificial intelligence
+[pdf][pdf] healthcare fraud detection: a survey and a clustering model incorporating geo-location information
+[html][html] simulation of patient flow in multiple healthcare units using process and data mining techniques for model identification
+[pdf][pdf] artificial intelligence and machine learning in healthcare applications
+[pdf][pdf] a case study for blockchain in healthcare:“medrec” prototype for electronic health records and medical research data
+iot architecture and system design for healthcare systems
+5 recent advancement of machine learning and deep learning in the field of healthcare system
+healthcare informatics and analytics in big data
+design and implementation of a standardized framework to generate and evaluate patient-level prediction models using observational healthcare data
+[pdf][pdf] artificial intelligence applications in type 2 diabetes mellitus care: focus on machine learning methods
+machine learning: an intuitive approach in healthcare
+multimodal machine learning: a survey and taxonomy
+big data analytics in healthcare internet of things
+[pdf][pdf] big iot healthcare data analytics framework based on fog and cloud computing.
+human-centered machine learning for healthcare: examples in neurology and pulmonology
+data analysis and machine learning effort in healthcare
+big data analytics enhanced healthcare systems: a review
+wearable internet of things: concept, architectural components and promises for person-centered healthcare
+will the internet of things transform healthcare
+big data management in healthcare: adoption challenges and implications
+[html][html] artificial intelligence (ai) in healthcare and biomedical research: why a strong computational/ai bioethics framework is required?
+[pdf][pdf] machine learning for healthcare: infectious and cardiovascular diseases
+iot-based diseases prediction and diagnosis system for healthcare
+enhancing machine learning algorithms in healthcare with electronic stethoscope
+machine learning for the detection of oil spills in satellite radar images
+securing electronic healthcare records: a mobile-based biometric authentication approach
+blockchain in healthcare: insights on covid-19
+machine learning based big data processing framework for cancer diagnosis using hidden markov model and gm clustering
+[pdf][pdf] healthcare decision support system for administration of chronic diseases
+a blockchain-orchestrated federated learning architecture for healthcare consortia
+[pdf][pdf] descriptive analysis of machine learning and its application in healthcare
+data science in healthcare: benefits, challenges and opportunities
+deep machine learning in healthcare: prognosis to diagnosis-a novel approach
+information extraction from multi-institutional radiology reports
+[pdf][pdf] health bank-a workbench for data science applications in healthcare.
+comparison of machine learning algorithms for the prediction of preventable hospital readmissions
+diagnostic accuracy of a machine-learning approach to coronary computed tomographic angiography–based fractional flow reserve: result from the machine …
+self-attention based recurrent convolutional neural network for disease prediction using healthcare data
+machine learning methods for disease prediction with claims data
+privacy preserving distributed learning clustering of healthcare data using cryptography protocols
+a two-step machine learning framework for wearable sensing systems in personal healthcare
+sequence embeddings help to identify fraudulent cases in healthcare insurance
+[html][html] healthcare predictive analytics: an overview with a focus on saudi arabia
+black hole attack detection in healthcare wireless sensor networks using independent component analysis machine learning technique
+a healthcare monitoring system for the diagnosis of heart disease in the iomt cloud environment using msso-anfis
+analysis of correlation between climate change and human health based on a machine learning approach. healthcare 2021, 9, 86
+software engineering for machine learning: a case study
+predicting anxiety and depression in elderly patients using machine learning technology
+exploiting uncertainties from ensemble learners to improve decision-making in healthcare ai
+[book][b] applying quality management in healthcare: a systems approach
+[html][html] an interpretable machine learning model for accurate prediction of sepsis in the icu
+how the machine 'thinks': understanding opacity in machine learning algorithms
+computational healthcare system with image analysis
+targeted learning in healthcare research
+artificial intelligence and healthcare: products and procedures
+[html][html] survival outcomes post percutaneous coronary intervention: why the hype about stent type? lessons from a healthcare system in india
+unintended consequences of machine learning in medicine
+[html][html] cloud computing based systems for healthcare
+exploiting wifi channel state information for residential healthcare informatics
+engagement, peer production, and the learning healthcare system
+detecting falls with wearable sensors using machine learning techniques
+a comprehensive review on the emerging iot-cloud based technologies for smart healthcare
+machine learning-based prediction of drug–drug interactions by integrating drug phenotypic, therapeutic, chemical, and genomic properties
+stability selection using a genetic algorithm and logistic linear regression on healthcare records
+an effective feature selection scheme for healthcare data classification using binary particle swarm optimization
+[html][html] artificial intelligence enabled healthcare: a hype, hope or harm
+ensuring fairness in machine learning to advance health equity
+iot based healthcare monitoring system using 5g communication and machine learning models
+applications of machine learning in drug discovery and development
+[html][html] wearable technology applications in healthcare: a literature review
+hai-proactive: development of an automated surveillance system for healthcare-associated infections in sweden
+gaussian processes for machine learning
+[html][html] attack and anomaly detection in iot sensors in iot sites using machine learning approaches
+a review on several critical issues and challenges in iot based e-healthcare system
+[book][b] healthcare analytics: from data to knowledge to healthcare improvement
+current applications and future impact of machine learning in radiology
+[pdf][pdf] a review of machine learning algorithms in healthcare
+towards secure and smart healthcare in smart cities using blockchain
+model-agnostic interpretability of machine learning
+wearable device technology in healthcare—exploring constraining and enabling factors
+machine learning for healthcare: beyond iid prediction.
+algorithms for size and color detection of smartphone images of chronic wounds for healthcare applications
+mime: multilevel medical embedding of electronic health records for predictive healthcare
+[html][html] healthcare, uncertainty, and fuzzy logic
+big data for healthcare: a survey
+[html][html] emerging frontiers in smart environment and healthcare–a vision
+multi-view versus single-view machine learning for disease diagnosis in primary healthcare
+[html][html] deep neural architectures for prediction in healthcare
+[pdf][pdf] future trends of data mining in predicting the various diseases in medical healthcare system
+a survey of healthcare internet of things (hiot): a clinical perspective
+intrusion detection based on stacked autoencoder for connected healthcare systems
+[html][html] automated data-adaptive analytics for electronic healthcare data to study causal treatment effects
+machine learning in wireless sensor networks: algorithms, strategies, and applications
+a machine learning approach to twitter user classification
+machine learning for prediction of all-cause mortality in patients with suspected coronary artery disease: a 5-year multicentre prospective registry analysis
+secure medical data transmission model for iot-based healthcare systems
+a machine-learning approach for computation of fractional flow reserve from coronary computed tomography
+enabling smart personalized healthcare: a hybrid mobile-cloud approach for ecg telemonitoring
+predictive analysis for healthcare sector using big data technology
+internet of things and big data technologies for next generation healthcare
+[book][b] systems design for remote healthcare
+a cluster-based machine learning model for large healthcare data analysis
+[citation][c] demystifying big data and machine learning for healthcare
+towards continuous monitoring in personalized healthcare through digital twins
+[pdf][pdf] healthcare information using machine learning approach
+social media news classification in healthcare communication
+a review of big data and its applications in healthcare and public sector
+[html][html] healthedatalab–a cloud computing solution for data science and advanced analytics in healthcare with application to predicting multi-center pediatric …
+[html][html] machine learning and data mining methods in diabetes research
+supervised learning-based classifiers in healthcare decision-making
+towards better healthcare: what could and should be automated?
+cloud-centric iot based disease diagnosis healthcare framework
+a wearable sensor-based activity prediction system to facilitate edge computing in smart healthcare system
+[html][html] multicenter comparison of machine learning methods and conventional regression for predicting clinical deterioration on the wards
+rfid technology for iot-based personal healthcare in smart spaces
+a machine learning based ensemble approach for predictive analysis of healthcare data
+class imbalance learning for identity management in healthcare
+using machine learning algorithms for breast cancer risk prediction and diagnosis
+[pdf][pdf] effect of machine learning in healthcare industry with reference to artificial intelligence
+[pdf][pdf] application of decision tree algorithm for data mining in healthcare operations: a case study
+machine learning applications in healthcare
+healthcare and lifestyle practices of healthcare workers: do healthcare workers practice what they preach?
+recent machine learning and internet of things (iot) applications for personalized healthcare: issues and challenges
+clinical data fusion and machine learning techniques for smart healthcare
+dipole: diagnosis prediction in healthcare via attention-based bidirectional recurrent neural networks
+[html][html] … evaluation of time series models for predicting influenza outbreaks: application of influenza-like illness data from sentinel sites of healthcare centers in iran
+[pdf][pdf] managing unstructured big data in healthcare system
+fine-grained concept linking using neural networks in healthcare
+personalized wearable systems for real-time ecg classification and healthcare interoperability: real-time ecg classification and fhir interoperability
+exploiting machine learning for end-to-end drug discovery and development
+cancer moonshot data and technology team: enabling a national learning healthcare system for cancer to unleash the power of data
+towards fog-driven iot ehealth: promises and challenges of iot in medicine and healthcare
+[pdf][pdf] blockchain technology in healthcare.
+a deep learning approach to on-node sensor data analytics for mobile or wearable devices
+a brief survey of machine learning methods and their sensor and iot applications
+automated surveillance of healthcare-associated infections: state of the art
+machine learning approaches for healthcare data analysis
+blockchain-based electronic healthcare record system for healthcare 4.0 applications
+[pdf][pdf] on speech datasets in machine learning for healthcare
+designing statistical assessment healthcare information system for diabetics analysis using big data
+healthcare process support: achievements, challenges, current research
+internet of things in healthcare: an extensive review on recent advances, challenges, and opportunities
+a review of challenges and barriers implementing rfid technology in the healthcare sector
+[html][html] machine learning in dermatology: current applications, opportunities, and limitations
+a facial-expression monitoring system for improved healthcare in smart cities
+prospects and challenges of volatile organic compound sensors in human healthcare
+[html][html] artificial intelligence and machine learning to fight covid-19
+regulating by robot: administrative decision making in the machine-learning era
+[pdf][pdf] making machine learning models interpretable.
+concare: personalized clinical feature embedding via capturing the healthcare context
+[html][html] guidelines for developing and reporting machine learning predictive models in biomedical research: a multidisciplinary view
+removing confounding factors associated weights in deep neural networks improves the prediction accuracy for healthcare applications.
+consumer credit-risk models via machine-learning algorithms
+healthcare: a complex service system
+intelligent nutrition in healthcare and continuous care
+interacting with predictions: visual inspection of black-box machine learning models
+techniques for interpretable machine learning
+kame: knowledge-based attention model for diagnosis prediction in healthcare
+a secure iot-based modern healthcare system with fault-tolerant decision making process
+deep learning and big data in healthcare: a double review for critical beginners
+diagnosing bias in data-driven algorithms for healthcare
+smartphones, sensors, and machine learning to advance real-time prediction and interventions for suicide prevention: a review of current progress and next steps
+a machine learning algorithm to predict severe sepsis and septic shock: development, implementation, and impact on clinical practice
+big data and machine learning in radiation oncology: state of the art and future prospects
+[pdf][pdf] medical internet of things and big data in healthcare
+physiological and behavior monitoring systems for smart healthcare environments: a review
+a machine learning approach to optimizing diabetes healthcare management using sas analytic suite
+a chatbot for psychiatric counseling in mental healthcare service based on emotional dialogue analysis and sentence generation
+a machine learning approach to predicting protein–ligand binding affinity with applications to molecular docking
+big data analytics: understanding its capabilities and potential benefits for healthcare organizations
+artificial intelligence: power for civilisation–and for better healthcare
+[citation][c] application of machine and deep learning algorithms in intelligent clinical decision support systems in healthcare
+[html][html] multitask learning and benchmarking with clinical time series data
+ppdp: an efficient and privacy-preserving disease prediction scheme in cloud-based e-healthcare system
+[html][html] a study of the transferability of influenza case detection systems between two large healthcare systems
+explainable ai and mass surveillance system-based healthcare framework to combat covid-i9 like pandemics

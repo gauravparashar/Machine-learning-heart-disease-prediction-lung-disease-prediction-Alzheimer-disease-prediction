@@ -1,0 +1,1 @@
+{'heart': 15, 'diabetes': 21, 'cardiovascular': 12, 'breast': 13, 'cancer': 25, 'pneumonia': 4, 'lung': 9, 'diabetic': 6, "parkinson's": 2, 'alzheimer': 3, 'covid-i9': 2, 'liver': 2, 'glaucoma': 2, 'coronary': 4}
